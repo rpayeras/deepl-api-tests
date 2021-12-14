@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr 
 "Project-Id-Version: cs-cart-latest\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
@@ -134,9 +134,9 @@ msgstr "Per aggiungere una combinazione per un prodotto comune, <a class=\"cm-po
 
 msgctxt "Languages::master_products.changing_owner_is_not_available"
 msgid "Couldn't change the owner of the product because some vendors still sell it. Please delete <a href=\"[vendors_offers_link]\" target=\"_blank\">vendors' offers</a> before changing the owner of this product."
-msgstr ""
+msgstr "Non è stato possibile cambiare il proprietario del prodotto perché alcuni venditori lo vendono ancora. Per favore cancella <a href=\"\"[vendors_offers_link]\\\" target=\\\"_blank\\\">le offerte dei venditori</a> prima di cambiare il proprietario di questo prodotto."
 
 msgctxt "Languages::master_products.product_bundles_info"
 msgid "Only vendors can add product bundles. To add a bundle for a common product, first log in as one of the vendors that sell it."
-msgstr ""
+msgstr "Solo i venditori possono aggiungere pacchetti di prodotti. Per aggiungere un bundle per un prodotto comune, prima accedi come uno dei venditori che lo vendono."
 

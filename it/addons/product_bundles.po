@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr 
 "Project-Id-Version: cs-cart-latest\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
@@ -14,117 +14,117 @@ msgstr ""
 
 msgctxt "Addons::name::product_bundles"
 msgid "Product bundles"
-msgstr ""
+msgstr "Pacchetti di prodotti"
 
 msgctxt "Addons::description::product_bundles"
 msgid "Allows you to create product bundles and set up discounts for them."
-msgstr ""
+msgstr "Permette di creare dei pacchetti di prodotti e di impostare degli sconti per essi."
 
 msgctxt "Languages::product_bundles.product_bundles"
 msgid "Product bundles"
-msgstr ""
+msgstr "Pacchetti di prodotti"
 
 msgctxt "Languages::product_bundles.product_bundles_menu_description"
 msgid "View, add and edit product bundles."
-msgstr ""
+msgstr "Visualizzare, aggiungere e modificare i pacchetti di prodotti."
 
 msgctxt "Languages::product_bundles.promo_image"
 msgid "Promo image"
-msgstr ""
+msgstr "Immagine promozionale"
 
 msgctxt "Languages::product_bundles.display_in_promotions"
 msgid "Display in promotions"
-msgstr ""
+msgstr "Mostra nelle promozioni"
 
 msgctxt "Languages::product_bundles.bundle_products"
 msgid "Bundle products"
-msgstr ""
+msgstr "Prodotti in bundle"
 
 msgctxt "Languages::product_bundles.price_for_all"
 msgid "Price for all"
-msgstr ""
+msgstr "Prezzo per tutti"
 
 msgctxt "Languages::product_bundles.share_discount"
 msgid "Share discount"
-msgstr ""
+msgstr "Sconto sulla quota"
 
 msgctxt "Languages::product_bundles.product_bundle_name"
 msgid "Bundle name"
-msgstr ""
+msgstr "Nome del mazzo"
 
 msgctxt "Languages::product_bundles.products_in_bundle"
 msgid "Products in bundle"
-msgstr ""
+msgstr "Prodotti in bundle"
 
 msgctxt "Languages::product_bundles.total_cost"
 msgid "Total cost"
-msgstr ""
+msgstr "Costo totale"
 
 msgctxt "Languages::product_bundles.add_new_bundle"
 msgid "Add new bundle"
-msgstr ""
+msgstr "Aggiungere un nuovo pacchetto"
 
 msgctxt "Languages::product_bundles.delete_product_in_bundle"
 msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
-msgstr ""
+msgstr "Il bundle <b>[nome_bundle]</b> è stato disattivato, perché uno dei prodotti di questo bundle è stato eliminato."
 
 msgctxt "Languages::product_bundles.new_bundle"
 msgid "New bundle"
-msgstr ""
+msgstr "Nuovo pacchetto"
 
 msgctxt "Languages::product_bundles.active_bundles"
 msgid "Active bundles"
-msgstr ""
+msgstr "Fasci attivi"
 
 msgctxt "Languages::product_bundles.specify_features"
 msgid "Specify features"
-msgstr ""
+msgstr "Specificare le caratteristiche"
 
 msgctxt "Languages::product_bundles.any_variation"
 msgid "Any variation"
-msgstr ""
+msgstr "Qualsiasi variazione"
 
 msgctxt "Languages::product_bundles.specify_options"
 msgid "Specify options"
-msgstr ""
+msgstr "Specificare le opzioni"
 
 msgctxt "Languages::product_bundles.total_list_price"
 msgid "Total list price"
-msgstr ""
+msgstr "Prezzo totale di listino"
 
 msgctxt "Languages::product_bundles.order_discount"
 msgid "Order discount"
-msgstr ""
+msgstr "Sconto sull'ordine"
 
 msgctxt "Languages::product_bundles.add_all_to_cart"
 msgid "Add all to cart"
-msgstr ""
+msgstr "Aggiungi tutto al carrello"
 
 msgctxt "Languages::product_bundles.sign_in_to_view_price"
 msgid "Sign in to view price"
-msgstr ""
+msgstr "Accedi per visualizzare il prezzo"
 
 msgctxt "Languages::product_bundles.bundle_details"
 msgid "Bundle details"
-msgstr ""
+msgstr "Dettagli del pacchetto"
 
 msgctxt "Languages::product_bundles.search_in_products"
 msgid "Bundles with product"
-msgstr ""
+msgstr "Pacchetti con prodotto"
 
 msgctxt "Languages::product_bundles.internal_feature_name_tooltip"
 msgid "This name is shown only in the Administration panel to help you distinguish between multiple product bundles that have the same displayed name."
-msgstr ""
+msgstr "Questo nome viene mostrato solo nel pannello di amministrazione per aiutarti a distinguere tra più pacchetti di prodotti che hanno lo stesso nome visualizzato."
 
 msgctxt "Languages::product_bundles.show_on_product_page"
 msgid "Show on products page"
-msgstr ""
+msgstr "Mostra nella pagina dei prodotti"
 
 msgctxt "Languages::product_bundles.confirm_text_on_empty_bundle"
 msgid "Are you sure you want to create a bundle without products?"
-msgstr ""
+msgstr "Sei sicuro di voler creare un bundle senza prodotti?"
 
 msgctxt "Languages::product_bundles.confirm_text_with_one_product_bundle"
 msgid "Are you sure you want to create a bundle with 1 product?"
-msgstr ""
+msgstr "Sei sicuro di voler creare un bundle con 1 prodotto?"
 

@@ -2,12 +2,12 @@
 input_text=""
 output_text=""
 
-filename="vendor_debt_payout.po"
+filename="warehouses.po"
 output_file="./$filename"
 
 rm "$output_file" > /dev/null 2>&1;
 
-input="./de/addons/$filename"
+input="./fr/addons/$filename"
 
 while IFS= read -r line
 do
@@ -28,7 +28,7 @@ do
     response="$(curl https://api-free.deepl.com/v2/translate \
 -d auth_key=1a677442-f017-1520-d652-d6de175b9e96:fx \
 -d "text=$input_text" \
--d "target_lang=DE")"
+-d "target_lang=FR")"
 
     echo "$response"
 
