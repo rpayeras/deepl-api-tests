@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE"
+
+msgctxt "Addons::name::absf__motivation_block"
+msgid "absf__motivation_block"
+msgstr "Security bug fix for \"AB: Motivation block\""
+
+msgctxt "Addons::description::absf__motivation_block"
+msgid "absf__motivation_block"
+msgstr "Eliminates security bugs in outdated and unsupported versions of the add-on \"AB: Motivation block\". When installing the add-on, the files that require changes will be automatically replaced. Before installing, make a full backup of your installation!"

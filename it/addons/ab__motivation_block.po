@@ -1,0 +1,485 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italiano\n"
+"Language: it_IT"
+
+msgctxt "Addons::name::ab__motivation_block"
+msgid "AB: Motivation block"
+msgstr ""
+
+msgctxt "Addons::description::ab__motivation_block"
+msgid "Add-on allows to create a motivation block"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block"
+msgid "AB: Motivation block"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block.manage"
+msgid "Data management"
+msgstr ""
+
+msgctxt "Languages::ab__mb.description"
+msgid "Custom content (HTML/Smarty)"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icon_class"
+msgid "Icon class"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icon_color"
+msgid "Icon color"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icon_type"
+msgid "Icon type"
+msgstr ""
+
+msgctxt "Languages::ab__mb_icon_type.img"
+msgid "Image"
+msgstr ""
+
+msgctxt "Languages::ab__mb_icon_type.icon"
+msgid "Icon"
+msgstr ""
+
+msgctxt "Languages::ab__mb_icon_type.nothing"
+msgid "No icon"
+msgstr ""
+
+msgctxt "Languages::tt_addons_ab__motivation_block_views_ab__motivation_block_update_image"
+msgid "The image is displayed \"as is\" without scaling. Upload the prepared image of the necessary size, it is recommended to use size 24*24px"
+msgstr ""
+
+msgctxt "Languages::ab__mb.new_motivation_item"
+msgid "New motivational element"
+msgstr ""
+
+msgctxt "Languages::ab__mb.editing_motivation_item"
+msgid "Editing motivational element"
+msgstr ""
+
+msgctxt "Languages::ab__mb_expanded"
+msgid "Set the disclosure element by default"
+msgstr ""
+
+msgctxt "Languages::ab__mb_vendor_edit"
+msgid "Allow vendor editing"
+msgstr ""
+
+msgctxt "Languages::block_ab__motivation_block"
+msgid "AB: Motivation block"
+msgstr ""
+
+msgctxt "Languages::block_ab__motivation_block_description"
+msgid "Output additional information about the store work"
+msgstr ""
+
+msgctxt "Languages::ab__mb_bg_color"
+msgid "Block color"
+msgstr ""
+
+msgctxt "Languages::ab__mb.settings"
+msgid "General settings"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block.breadcrumbs.manage"
+msgid "AB: Motivation block: Data management"
+msgstr ""
+
+msgctxt "Languages::ab__mb.destinations"
+msgid "Rate areas"
+msgstr ""
+
+msgctxt "Languages::ab__mb.destinations.text_all_destinations_included"
+msgid "All rate areas are included"
+msgstr ""
+
+msgctxt "Languages::ab__mb.destinations.add_destinations"
+msgid "Add rate areas"
+msgstr ""
+
+msgctxt "Languages::ab__mb.destinations.add_destinations_and_close"
+msgid "Add rate areas and close"
+msgstr ""
+
+msgctxt "Languages::ab__mb_all_destinations"
+msgid "All rate areas"
+msgstr ""
+
+msgctxt "Languages::ab__mb.set_default_value"
+msgid "Restore by default"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.warning"
+msgid "The standard information output provided by CS-Cart by default will be blocked"
+msgstr ""
+
+msgctxt "Languages::ab__mb.errors.disabled_option_choosen"
+msgid "Invalid value for \"[field]\" field"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.tooltip"
+msgid "Choose a way to fill content of motivational element"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.variants.custom"
+msgid "Custom content (HTML/Smarty)"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.variants.custom.tooltip"
+msgid "Allows you to set your own fill for the motivational element"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.geo_maps"
+msgid "Shipping information"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.geo_maps.tooltip"
+msgid "The template displays information about the cost of delivery of products. Available when the \"Maps and Geolocation\" add-on is active. Information will be shown only with active setting \"Show shipping cost and time on product pages\" for \"Maps and Geolocation\" add-on. The standard information output provided by CS-Cart by default will be blocked"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.payment_methods"
+msgid "Payment methods information"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.payment_methods.tooltip"
+msgid "The template displays information about the available payment methods"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.categories_list"
+msgid "Product categories list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.categories_list.tooltip"
+msgid "The template displays a list of all categories in which the product is involved. It is available if there is at least one category in the store (except for the \"Trash category\")"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.tags_list"
+msgid "Product tags list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.templates.tags_list.tooltip"
+msgid "The template displays a list of all tags assigned to the product. Available when the \"Tags\" add-on is active. Be sure to create and assigned tags for products"
+msgstr ""
+
+msgctxt "Languages::ab__mb.templates_settings.max_tags_count"
+msgid "Maximum tags count"
+msgstr ""
+
+msgctxt "Languages::ab__mb.only_for.vertical_tabs.tooltip"
+msgid "This setting only works if the \"Vertical tabs\" display option is selected in the add-on settings"
+msgstr ""
+
+msgctxt "Languages::ab__mb.vendor.motivation_item.template_choosen"
+msgid "For this motivational element, the type of filling using the template is seted. <br>You can contact the store administrator to create another motivational element with the filling type \"Custom content (HTML/Smarty)\""
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.search.ignore_this_field"
+msgid "Ignore this field"
+msgstr ""
+
+msgctxt "Languages::ab__mb.template_path.search.ignore_this_field.tooltip"
+msgid "When choosing this option - the 'Template' field of the motivational element will not be taken into account when sampling"
+msgstr ""
+
+msgctxt "Languages::ab__mb.templates_settings.brand_feature_id"
+msgid "\"Brand\" feature ID"
+msgstr ""
+
+msgctxt "Languages::ab__mb.templates_settings.brand_feature_id.tooltip"
+msgid "This setting will be used to form a filter link in the product category"
+msgstr ""
+
+msgctxt "Languages::ab__mb.update_help.title"
+msgid "Additional info for content managing"
+msgstr ""
+
+msgctxt "Languages::ab__mb.update_help.tip_1"
+msgid "To fill the content of motivational elements, you can use all the variables declared on the Smarty product page, for example: <br/><hr>Array <code>{$product}</code> - information about the current product; <br/><hr>Massive <code>{$currencies}</code> - currency information; <br/><hr>Array <code>{$user_info}</code> - information about the user (note that if the client is not authorized, the array will be empty); <br/><hr>Array <code>{$settings}</code> - an array of store settings."
+msgstr "To fill the content of motivational elements, you can use all the variables declared on the Smarty product page, for example:<br/><hr>Array <code>{$product}</code> - information about the current product;<br/><hr>Massive <code>{$currencies}</code> - currency information;<br/><hr>Array <code>{$user_info}</code> - information about the user (note that if the client is not authorized, the array will be empty);<br/><hr>Array <code>{$settings}</code> - an array of store settings."
+
+msgctxt "Languages::ab__mb.go_to"
+msgid "Go to page of"
+msgstr ""
+
+msgctxt "Languages::ab__mb.go_to.destinations_manage"
+msgid "Go to page of destinations management"
+msgstr ""
+
+msgctxt "Languages::ab__mb.go_to.mb_manage"
+msgid "Go to page of motivational elements management"
+msgstr ""
+
+msgctxt "Languages::ab__mb.admin.categories_update.description"
+msgid "There is a <a href=\"[href]\" target=\"_blank\">list of motivational elements</a> that will be displayed for products in this category. <br/>Please note that <span title=\"[text]\" class=\"cm-tooltip\" style=\"color: red\">other conditions</span> may be used due to which these motivational elements will not be displayed for products of this category"
+msgstr "There is a <a href=\"[href]\" target=\"_blank\">list of motivational elements</a> that will be displayed for products in this category.<br/>Please note that <span title=\"[text]\" class=\"cm-tooltip\" style=\"color: red\">other conditions</span> may be used due to which these motivational elements will not be displayed for products of this category"
+
+msgctxt "Languages::ab__mb.admin.categories_update.description.tooltip"
+msgid "The conditions for displaying motivational elements depend on: <ul><li>Terms for categories</li><li>Terms for destinations</li></ul> See <a href='[href]' title='Documentation' target='_blank'>the documentation</a> for more details"
+msgstr "The conditions for displaying motivational elements depend on:<ul><li>Terms for categories</li><li>Terms for destinations</li></ul>See <a href='[href]' title='Documentation' target='_blank'>the documentation</a> for more details"
+
+msgctxt "Languages::ab__mb.admin.categories_update.description.tooltip.link"
+msgid "https://docs.cs-cart.abt.team/en/ab__motivation_block.doc/#p-946"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.categories"
+msgid "Active for"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.categories.tooltip"
+msgid "Choose how to use objects selected by picker"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.destinations"
+msgid "Active for"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.destinations.tooltip"
+msgid "Choose how to use objects selected by picker"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.products"
+msgid "Active for"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.products.tooltip"
+msgid "Choose how to use objects selected by picker"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.exclude"
+msgid "all not in the list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.not_exclude"
+msgid "all in the list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.exclude.full_text"
+msgid "Active for all not in the list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.exclude.not_exclude.full_text"
+msgid "Active for all in the list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.not_display_on"
+msgid "Do not display on"
+msgstr ""
+
+msgctxt "Languages::ab__mb.products.also_in_categories"
+msgid "This product also participates in category|This product also participates in categories"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block.demodata"
+msgid "Demo data"
+msgstr ""
+
+msgctxt "Languages::ab__mb.demodata.description"
+msgid "On this page, you can quickly create a demo data for the motivation block"
+msgstr ""
+
+msgctxt "Languages::ab__mb.demodata.table.description"
+msgid "Demo data type"
+msgstr ""
+
+msgctxt "Languages::ab__mb.demodata.table.add_blocks"
+msgid "Add demo data into the motivation block"
+msgstr ""
+
+msgctxt "Languages::ab__mb.demodata.successes.blocks"
+msgid "Motivational elements [blocks] were successfully created"
+msgstr ""
+
+msgctxt "Languages::ab__mb.demodata.errors.no_data"
+msgid "It seems the \"data.json\" file was deleted"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block.icons"
+msgid "Available icons"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.info"
+msgid "On this page, you can find the available icons list"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.tygh_icons"
+msgid "Icons list by default"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.class"
+msgid "Icon class"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.class.tooltip"
+msgid "A value which needs to be used in the field \"Icon class\" in motivation block settings"
+msgstr ""
+
+msgctxt "Languages::ab__mb.class_copied"
+msgid "The class is copied in a clipboard"
+msgstr ""
+
+msgctxt "Languages::ab__mb_icon_class.tooltip"
+msgid "The complete available icons list can be found on the page <a href=\"[link]\">Administration panel -> AB: Add-ons -> AB: Motivation block -> Available icons</a>"
+msgstr "The complete available icons list can be found on the page<a href=\"[link]\">Administration panel → AB: Add-ons → AB: Motivation block → Available icons</a>"
+
+msgctxt "Languages::ab__mb.icons.yt_icons"
+msgid "List of icons added by AB: YoupiTheme"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.refreshed_successfully"
+msgid "Icons have been updated successfully"
+msgstr ""
+
+msgctxt "Languages::ab__mb.icons.refresh"
+msgid "Refresh icons"
+msgstr ""
+
+msgctxt "Languages::ab__motivation_block.help"
+msgid "Help"
+msgstr ""
+
+msgctxt "Languages::ab__mb_help.docs"
+msgid "Read the <a target='_blank' href='https://cs-cart.alexbranding.com/en/ab__motivation_block.doc'>documentation</a>."
+msgstr ""
+
+msgctxt "Languages::privilege_groups.ab__motivation_block"
+msgid "AB: Motivation block"
+msgstr ""
+
+msgctxt "Languages::privileges.ab__mb_manage_data"
+msgid "Managing motivational data"
+msgstr ""
+
+msgctxt "Languages::privileges.ab__mb_view_data"
+msgid "Viewing motivational data"
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.title"
+msgid "AB: Motivation block was successfully updated to v[ver]!"
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.text"
+msgid "The detailed list of changes for <b>v[ver]</b> version look in documentation for the add-on in the section <a target=\"_blank\" href=\"https://docs.cs-cart.abt.team/en/ab__motivation_block.doc#p-929\">List of releases</a>."
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.0.0.added_new_settings.title"
+msgid "Added new settings"
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.0.0.added_new_settings.text"
+msgid "Please note that new settings have been added to the add-on settings."
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.0.0.added_templates.title"
+msgid "A new way of filling motivational elements has been added."
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.0.0.added_templates.text"
+msgid "Please note that in the settings of the motivational element, the \"Template\" field was added that defines the way the content of the motivational element is filled."
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.1.0.added_template.title"
+msgid "Added a new template \"Information about payment methods\""
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.1.0.added_template.text"
+msgid "Please note that a new version of the template has been added to fill the content of the motivational element"
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.1.0.regenerate_data.title"
+msgid "Regenerate demo-data"
+msgstr ""
+
+msgctxt "Languages::ab__mb.upgrade_notifications.2.1.0.regenerate_data.text"
+msgid "If you use old demo-data of the add-on (or your data is based on old demo-data), then you need to regenerate the demo-data"
+msgstr ""
+
+msgctxt "SettingsSections::ab__motivation_block::settings"
+msgid "General"
+msgstr ""
+
+msgctxt "SettingsSections::ab__motivation_block::appearance"
+msgid "Appearance"
+msgstr ""
+
+msgctxt "SettingsSections::ab__motivation_block::admin_panel"
+msgid "Admin panel settings"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::smarty"
+msgid "HTML-content with Smarty support"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::description_type::html"
+msgid "HTML-content"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::description_type"
+msgid "Elements description type"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::use_additional_categories"
+msgid "Use additional product categories"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::save_element_state"
+msgid "Save disclosure state for elements in block"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::bg_color"
+msgid "Block color"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::template_variant::vertical_tabs"
+msgid "Vertical tabs"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::template_variant::horizontal_tabs"
+msgid "Horizontal tabs"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::appearance_type_styles::fill"
+msgid "With background color"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__motivation_block::appearance_type_styles::framed"
+msgid "With Frames"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::template_variant"
+msgid "Template variant"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::appearance_type_styles"
+msgid "Block Style"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::use_style_presets"
+msgid "Use style presets"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__motivation_block::display_attached_mb_items_on_cat_page"
+msgid "Display a list of motivational elements attached for this category"
+msgstr ""
+
+msgctxt "SettingsTooltips::ab__motivation_block::use_additional_categories"
+msgid "If the setting is enabled, then not only the main product category will be used to select motivational elements, but also additional"
+msgstr ""
+
+msgctxt "SettingsTooltips::ab__motivation_block::save_element_state"
+msgid "With active setting, the state of disclosure for elements in block will be saved for each user"
+msgstr ""
+
+msgctxt "SettingsTooltips::ab__motivation_block::template_variant"
+msgid "The setting defines a template for displaying a motivation block"
+msgstr ""
+
+msgctxt "SettingsTooltips::ab__motivation_block::use_style_presets"
+msgid "With active configuration, the content of motivational elements will have a predefined style"
+msgstr ""
+
+msgctxt "SettingsTooltips::ab__motivation_block::display_attached_mb_items_on_cat_page"
+msgid "With active setting, the list of motivational elements attached to the chosen category will be displayed on the category editing page (in the \"Add-ons\" tab)"
+msgstr ""

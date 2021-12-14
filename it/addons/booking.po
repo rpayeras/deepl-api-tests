@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Project-ID: 50163\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /head/addons/booking.po\n"
+"X-Crowdin-File-ID: 5249\n"
+"PO-Revision-Date: 2021-12-13 08:02\n"
+
+msgctxt "Addons::name::booking"
+msgid "Booking [Beta]"
+msgstr ""
+
+msgctxt "Addons::description::booking"
+msgid ""
+msgstr ""
+""
+
+msgctxt "SettingsSections::booking::general"
+msgid "General"
+msgstr ""
+
+msgctxt "Languages::booking.product_tab.booking"
+msgid "Reservations"
+msgstr ""
+
+msgctxt "Languages::booking.reservations"
+msgid "Reservations"
+msgstr ""
+
+msgctxt "Languages::booking.service.duration"
+msgid "Duration"
+msgstr ""
+
+msgctxt "Languages::booking.service.duration.hour"
+msgid "in hours"
+msgstr ""
+
+msgctxt "Languages::booking.service.duration.day"
+msgid "in days"
+msgstr ""
+
+msgctxt "Languages::booking.service.booking_calendar"
+msgid "Booking calendar"
+msgstr ""
+
+msgctxt "Languages::booking.service.booking_calendar_description"
+msgid "This calendar shows available and unavailable dates for booking."
+msgstr ""
+
+msgctxt "Languages::booking.service.operating_hours.title"
+msgid "Operating hours"
+msgstr ""
+
+msgctxt "Languages::booking.service.operating_hours.description"
+msgid "Check the days and specify the times you will be available."
+msgstr ""
+
+msgctxt "Languages::booking.service.locked_dates"
+msgid "Blocked dates"
+msgstr ""
+
+msgctxt "Languages::booking.service.locked_dates_description"
+msgid "Set a date range that you want to make unavailable."
+msgstr ""
+
+msgctxt "Languages::booking.service.location_description"
+msgid "Provide the location of your offer, so that customers could find it."
+msgstr ""
+
+msgctxt "Languages::booking.blocked_for_reservations"
+msgid "This date is blocked for any reservations."
+msgstr ""
+
+msgctxt "Languages::booking.product_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "Languages::booking.filter_by_location"
+msgid "Location"
+msgstr ""
+
+msgctxt "Languages::booking.enter_location"
+msgid "Enter a location"
+msgstr ""
+
+msgctxt "Languages::booking.filter_by_date"
+msgid "Availability dates"
+msgstr ""
+
+msgctxt "Languages::booking.check_in_date"
+msgid "Check-in date"
+msgstr ""
+
+msgctxt "Languages::booking.check_out_date"
+msgid "Check-out date"
+msgstr ""
+
+msgctxt "Languages::booking.check_in_out_date"
+msgid "Check-in/out date"
+msgstr ""
+
+msgctxt "Languages::booking.days_count"
+msgid "No. of days"
+msgstr ""
+
+msgctxt "Languages::booking.nights_count"
+msgid "No. of nights"
+msgstr ""
+
+msgctxt "Languages::booking.nights"
+msgid "night|nights"
+msgstr ""
+
+msgctxt "Languages::booking.filter_template.location_and_date"
+msgid "Filter by location and date"
+msgstr ""
+
+msgctxt "Languages::booking.dates_area_not_available"
+msgid "Dates area not available"
+msgstr ""
+
+msgctxt "Languages::booking.search"
+msgid "Search"
+msgstr ""
+
+msgctxt "Languages::booking.no_orders"
+msgid "Orders not found"
+msgstr ""
+
+msgctxt "Languages::booking.do_not_have_permissions_to_view_reservations"
+msgid "You don't have permissions to view reservations"
+msgstr ""
+

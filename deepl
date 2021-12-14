@@ -1,0 +1,49 @@
+#!/bin/sh
+input_text=""
+output_text=""
+
+filename="vendor_debt_payout.po"
+output_file="./$filename"
+
+rm "$output_file" > /dev/null 2>&1;
+
+input="./de/addons/$filename"
+
+while IFS= read -r line
+do
+  current_property="$(echo \"$line\" | awk -F'\"' '{print $2}' | xargs )"
+  current_text="$(echo \"$line\" | awk -F' ' '{$1="";print substr($0, 1)}' | xargs -0 )"
+  current_text="${current_text#?}"
+  current_text="${current_text#?}"
+  current_text="${current_text%?}"
+  current_text="${current_text%?}"
+
+  if [[ "$current_property" == "msgid" ]] && [[ "$current_text" != "" ]]; then 
+    input_text=$current_text
+  fi
+
+  if [[ "$current_property" == "msgstr" ]] && [[ "$current_text" == "" ]] && [[ "$input_text" != "" ]]; then 
+    echo "$input_text"
+
+    response="$(curl https://api-free.deepl.com/v2/translate \
+-d auth_key=1a677442-f017-1520-d652-d6de175b9e96:fx \
+-d "text=$input_text" \
+-d "target_lang=DE")"
+
+    echo "$response"
+
+    output_text="$( echo $response | jq '.translations[] | .text')"
+
+    echo "$output_text"
+  fi
+
+  if [[ "$current_property" == "msgstr" ]] && [[ "$current_text" == "" ]]; then 
+    echo "$current_property $output_text" >> "$output_file"
+    input_text=""
+    output_text=""
+  else
+    echo $line >> "$output_file"
+  fi
+
+done < "$input"
+

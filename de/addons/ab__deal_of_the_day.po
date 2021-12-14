@@ -1,0 +1,529 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE"
+
+msgctxt "Addons::name::ab__deal_of_the_day"
+msgid "AB: Product of the day and extended promotions"
+msgstr ""
+
+msgctxt "Addons::description::ab__deal_of_the_day"
+msgid "Addon extends native CS-Cart promotions functionality, turning them into a powerful marketing tool"
+msgstr ""
+
+msgctxt "Languages::ab__deal_of_the_day"
+msgid "AB: Product of the day and extended promotions"
+msgstr ""
+
+msgctxt "Languages::block_ab__deal_of_the_day"
+msgid "AB: Deal of the day"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_time_left"
+msgid "To end of promotions remains"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_product_label"
+msgid "Promotion"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.more"
+msgid "More"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.less"
+msgid "Less"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.h1"
+msgid "h1 tag"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.page_title"
+msgid "Page title"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.meta_description"
+msgid "Meta tag <code>description</code>"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.meta_keywords"
+msgid "Meta tag <code>keywords</code>"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.page_image"
+msgid "Image for promotion page"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.list_image"
+msgid "Image for promotions list"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.filter"
+msgid "Use filter by category"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.use_products_filter"
+msgid "Use filter by products"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.show_label_in_products_lists"
+msgid "Display label (sticker) \"Promotion\" in products lists"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.show_label_in_products_lists.tooltip"
+msgid "All products with applied this promotion will output in products lists with \"Promotion\" label"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.from"
+msgid "from"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.to"
+msgid "to"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.page_action_period"
+msgid "Promotion period:"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.days_left"
+msgid "<span>[n]</span> day left|<span>[n]</span> days left"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.clear_filter"
+msgid "Clear filter"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.detailed"
+msgid "Promotion details"
+msgstr ""
+
+msgctxt "Languages::ab__promotions_list"
+msgid "AB: Promotions list"
+msgstr ""
+
+msgctxt "Languages::ab__promotions_view"
+msgid "AB: Promotion page"
+msgstr ""
+
+msgctxt "Languages::block_ab__promotions"
+msgid "AB: Promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.add_promotions_and_close"
+msgid "Add promotions and close"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.add_promotions"
+msgid "Add promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_scroller"
+msgid "Promotions scroller"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_sorted_promotions"
+msgid "Active promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.sort.created"
+msgid "by creation date"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.sort.to_date"
+msgid "by ending date"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.sort.priority"
+msgid "by priority"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.sort.name"
+msgid "by name"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.choose_promotion"
+msgid "Choose promotion"
+msgstr ""
+
+msgctxt "Languages::ab__deal_of_the_day_title_product"
+msgid "Promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.all_promotions"
+msgid "Also in promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.all_promotions.title"
+msgid "View all promotions for this product"
+msgstr ""
+
+msgctxt "Languages::ab__show_additional_product_images"
+msgid "Show additional products images"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.years"
+msgid "years"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.months"
+msgid "months"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.days"
+msgid "days"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.hours"
+msgid "hours"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.minutes"
+msgid "minutes"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.counter.seconds"
+msgid "seconds"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.promotion_expired"
+msgid "Promotion is ended"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.get_more_combinations"
+msgid "Show more [n] combination|Show more [n] combinations"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.showed_combinations"
+msgid "Shown [n] from [total]"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.chains_list.title"
+msgid "Products combinations"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.today_only"
+msgid "Only today"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_expired_promotions"
+msgid "Ended promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_awaited_promotions"
+msgid "Awaiting promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.promotion_awaited"
+msgid "Promotion is awaiting"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_time_awaited_left"
+msgid "To start promotion remains"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.days_to_start"
+msgid "<span>[n]</span> day to start|<span>[n]</span> days to start"
+msgstr ""
+
+msgctxt "Languages::block_ab__promotions_description"
+msgid "Promotions list"
+msgstr ""
+
+msgctxt "Languages::block_ab__deal_of_the_day_description"
+msgid "Preview of the chosen promotion"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.settings"
+msgid "General settings"
+msgstr ""
+
+msgctxt "Languages::block_ab__promotion_main_data"
+msgid "AB: Promotion header"
+msgstr ""
+
+msgctxt "Languages::block_ab__promotion_main_data_description"
+msgid "General promotion data (name, image, description etc.)"
+msgstr ""
+
+msgctxt "Languages::ab__promotion_main_data"
+msgid "Promotion header"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.hide_products_block"
+msgid "Hide products block"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_schedule"
+msgid "AB: Promotion schedule"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.use_schedule"
+msgid "Use schedule"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.error.use_schedule_is_on"
+msgid "When using the \"AB: Promotion schedule\" available period changes are not available"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.tab.ab__dotd_schedule_header"
+msgid "Use the time range selection for each day of each month to specify the promotion activity period. When setting the schedule, refer to that left mouse button - select, right mouse button - unselect"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.form.use_schedule.tooltip"
+msgid "If you activate this option, the standard promotion setting \"Use available period\" will be disabled and the promotion activity will be determined by the Schedule that you can set in this tab interface. Conversely, if you disable this setting, the standard option \"Use available period\" will controls the activity of the promotion."
+msgstr ""
+
+msgctxt "Languages::ab__dotd.schedule.table_header"
+msgid "Time and Date"
+msgstr ""
+
+msgctxt "Languages::sort_order"
+msgid "Order"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.all_promotions_list"
+msgid "All promotions list"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.block.priority"
+msgid "Priority"
+msgstr ""
+
+msgctxt "Languages::block_ab__multi_deal_of_the_day"
+msgid "AB: Multi Deal of the day"
+msgstr ""
+
+msgctxt "Languages::block_ab__multi_deal_of_the_day_description"
+msgid "Display anounce of one of chosen promotions, considering to their priorities"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_enable_countdown_timer"
+msgid "Display promotion timer"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.help"
+msgid "Help"
+msgstr ""
+
+msgctxt "Languages::ab__dotd_help.docs"
+msgid "Read the <a target='_blank' href='https://cs-cart.alexbranding.com/en/ab__deal_of_the_day.doc'>documentation</a>"
+msgstr ""
+
+msgctxt "Languages::privilege_groups.ab__deal_of_the_day"
+msgid "AB: Product of the day and extended promotions"
+msgstr ""
+
+msgctxt "Languages::privileges.ab__dotd_manage_seodata"
+msgid "Manage promotions SEO data"
+msgstr ""
+
+msgctxt "Languages::privileges.ab__dotd_view_seodata"
+msgid "View promotions SEO data"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.autoinstall.no_demodata"
+msgid "File with demo data is missing"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.autoinstall.promotions_not_created"
+msgid "Failed to create demo promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.autoinstall.promotions_created"
+msgid "Demo promotions [promotions] is created successfully"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata"
+msgid "Demo data"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata_description"
+msgid "Installing demo data page"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata.table.description"
+msgid "Demo data"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata.table.action"
+msgid "Action"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata.table.add_promotions"
+msgid "Adding promotions"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.demodata.place_into_blocks"
+msgid "Place into blocks"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts"
+msgid "Layouts"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.layout_was_reset"
+msgid "Layout was reset"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.choose_layout_to_reset"
+msgid "Choose layout to reset"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.table.dispatch_description"
+msgid "Type of the layout page"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.table.dispatch"
+msgid "Dispatch"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.table.layouts"
+msgid "Layouts"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.table.action"
+msgid "Action"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.table.get_file"
+msgid "Get file"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.layout_is_not_found"
+msgid "Layout is not found"
+msgstr ""
+
+msgctxt "Languages::ab__dotd.layouts.header"
+msgid "There are displaying all layout pages, added by the addon, on this page. You can reset pages in any layout to the default state. Also you can download xml-file of a layout page and import it manually."
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::count_to::end_of_the_day"
+msgid "end_of_the_day"
+msgstr "The end of the day"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::count_to::end_of_the_promotion"
+msgid "end_of_the_promotion"
+msgstr "The end of the promotion"
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::1"
+msgid "1"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::2"
+msgid "2"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::3"
+msgid "3"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::4"
+msgid "4"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::5"
+msgid "5"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::6"
+msgid "6"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::highlight_when_left::7"
+msgid "7"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::amount_of_promos_in_prods_lists::1"
+msgid "1"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::amount_of_promos_in_prods_lists::2"
+msgid "2"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::amount_of_promos_in_prods_lists::3"
+msgid "3"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::amount_of_promos_in_prods_lists::4"
+msgid "4"
+msgstr ""
+
+msgctxt "SettingsVariants::ab__deal_of_the_day::amount_of_promos_in_prods_lists::5"
+msgid "5"
+msgstr ""
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::count_to"
+msgid "count_to"
+msgstr "Countdown to"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::max_height"
+msgid "max_height"
+msgstr "The maximum height of the description, px"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::promotions_per_page"
+msgid "promotions_per_page"
+msgstr "Promotions per page"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::chains_per_page"
+msgid "chains_per_page"
+msgstr "Combinations per page"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::highlight_when_left"
+msgid "highlight_when_left"
+msgstr "Highlighting the promotion"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::amount_of_promos_in_prods_lists"
+msgid "amount_of_promos_in_prods_lists"
+msgstr "Amount of displayed promotions in the product lists"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__show_expired_promos"
+msgid "ab__show_expired_promos"
+msgstr "Showing expired promotions"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__show_awaited_promos"
+msgid "ab__show_awaited_promos"
+msgstr "Showing awaiting promotions"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__as"
+msgid "ab__as"
+msgstr "AB: Advanced sitemap"
+
+msgctxt "SettingsOptions::ab__deal_of_the_day::ab__as_add_to_sitemap"
+msgid "ab__as_add_to_sitemap"
+msgstr "Adding promotions pages to the XML-sitemap"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::count_to"
+msgid "count_to"
+msgstr "What time will be used as end time for countdown"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::max_height"
+msgid "max_height"
+msgstr "Hides the description of the promotion when height of the description exceeds the specified value. Text of the link is a language variable — <code>ab__dotd.more</code> and <code>ab__dotd.less</code>"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::promotions_per_page"
+msgid "promotions_per_page"
+msgstr "The qty of promotions on the list page. To show all promotions on one page — enter <code>0</code>"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::chains_per_page"
+msgid "chains_per_page"
+msgstr "The qty of products combinations from addon \"Buy together\" on the list page. To show all combinations on one page — enter <code>0</code>"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::highlight_when_left"
+msgid "highlight_when_left"
+msgstr "Highlight the promotion, when days left"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::amount_of_promos_in_prods_lists"
+msgid "amount_of_promos_in_prods_lists"
+msgstr "Set amount of applied to a product catalog promotions, which will be displayed in products lists"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::ab__show_expired_promos"
+msgid "ab__show_expired_promos"
+msgstr "Showing expired promotions on the promotions list page"
+
+msgctxt "SettingsTooltips::ab__deal_of_the_day::ab__show_awaited_promos"
+msgid "ab__show_awaited_promos"
+msgstr "Showing awaiting promotions on the promotions list page"
