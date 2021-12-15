@@ -422,7 +422,7 @@ msgstr "Révisé après la dernière exportation"
 
 msgctxt "Languages::exporting_images_to_ebay"
 msgid "Exporting product \"[product]\" images to eBay"
-msgstr "Exportation de produit «[product] » sur eBay"
+msgstr "Exportation de produit \"[product]\" sur eBay"
 
 msgctxt "Languages::ebay_package"
 msgid "Package/thick envelope"
@@ -554,11 +554,11 @@ msgstr "Résumé fin du produit"
 
 msgctxt "Languages::ebay_export_product"
 msgid "Exporting product \"[product]\" to eBay"
-msgstr "Exportation de produit «[product] » sur eBay"
+msgstr "Exportation de produit \"[product]\"sur eBay"
 
 msgctxt "Languages::ebay_export_products"
 msgid "Exporting products \"[product]\" to eBay"
-msgstr "Exporter des produits «[product] » sur eBay"
+msgstr "Exporter des produits \"[product]\" sur eBay"
 
 msgctxt "Languages::ebay_override"
 msgid "Redefinition of the product name and description on eBay"
@@ -566,7 +566,7 @@ msgstr "Redéfinition du nom du produit et description sur eBay"
 
 msgctxt "Languages::ebay_end_products"
 msgid "Ending products \"[product]\" on eBay"
-msgstr "Fin des produits «[product] » sur eBay"
+msgstr "Fin des produits \"[product]\" sur eBay"
 
 msgctxt "Languages::ebay_count_product_successfully_exported"
 msgid "Products successfully exported:"
@@ -662,7 +662,7 @@ msgstr "Obtenir le statut de produit d’eBay"
 
 msgctxt "Languages::ebay_get_product_status"
 msgid "Getting product \"[product]\" status from eBay"
-msgstr "Obtenir le statut de produit «[product] » sur eBay"
+msgstr "Obtenir le statut de produit \"[product]\" sur eBay"
 
 msgctxt "Languages::ebay_update_status_summary_title"
 msgid "Summary: Product status retrieval from eBay"
@@ -690,7 +690,7 @@ msgstr "Des ventes du produit ont été deja exportees a eBay"
 
 msgctxt "Languages::ebay_failed_request"
 msgid "Failed request to [url]. Http status code: [code]"
-msgstr "Demande echouee au {url}' http: code d'etat {code}"
+msgstr "Demande echouee au [url]. http: code d'etat [code]"
 
 msgctxt "Languages::ebay_package_type"
 msgid "eBay package type"

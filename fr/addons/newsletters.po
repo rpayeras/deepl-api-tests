@@ -100,7 +100,7 @@ msgstr "L'email ne peut pas être vide"
 
 msgctxt "Languages::sending_email_to"
 msgid "Sending email to [email]..."
-msgstr "Envoyer email à {email}..."
+msgstr "Envoyer email à [email]..."
 
 msgctxt "Languages::text_subscriber_added"
 msgid "Your e-mail has been successfully added to our free e-mail updates list"
@@ -296,7 +296,7 @@ msgstr "Confirmé"
 
 msgctxt "Languages::subscribed_to"
 msgid "Subscribed to [num] lists"
-msgstr "Inscrits sur la liste {num}"
+msgstr "Inscrits sur la liste [num]"
 
 msgctxt "Languages::subscribed"
 msgid "Subscribed"
@@ -428,7 +428,7 @@ msgstr "Choisir une promotion dans laquelle le code promo sera donné lors de l'
 
 msgctxt "Languages::subscribers_promo_subject"
 msgid "Thank you for subscribing! Use the coupon code [coupon] in our special offer \"[promotion]\"."
-msgstr "Merci pour votre inscription! Utilisez le code du coupon pour notre offre spéciale."
+msgstr "Merci pour votre inscription! Utilisez le code du coupon [coupon] pour notre offre spéciale \"[promotion]\"."
 
 msgctxt "Languages::subscribers_no_promo"
 msgid "No promotion"
@@ -440,7 +440,7 @@ msgstr "Le client est inscrit"
 
 msgctxt "Languages::addons.newsletters.email_exists_in_list"
 msgid "<b>[email]</b> is already in the mailing list"
-msgstr "<b>{email}</b> est déjà dans la liste d'emails"
+msgstr "<b>[email]</b> est déjà dans la liste d'emails"
 
 msgctxt "Languages::email_template.newsletters_newsletter"
 msgid "Newsletter"

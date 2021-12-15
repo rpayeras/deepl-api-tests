@@ -246,7 +246,7 @@ msgstr "Vous permet de proposer ce point de ramassage aux résidents d'autres zo
 
 msgctxt "Languages::store_locator.shipping_price_from"
 msgid "from [price]"
-msgstr "de [prix]"
+msgstr "de [price]"
 
 msgctxt "Languages::store_locator.pickup_rates_calculation_logic_changed_title"
 msgid "Pick up from store: Surcharge per pickup point removed"

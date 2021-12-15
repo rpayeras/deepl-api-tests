@@ -42,5 +42,5 @@ msgstr "I documenti PDF (come fatture, bolle di accompagnamento, ecc.) saranno o
 
 msgctxt "Languages::pdf_documents.disable_notification"
 msgid "The generation of PDF documents (such as invoices, packing slips, etc.) has been disabled. Your data will no longer go through our cloud service [service_url]. If you'd like to generate PDF documents without using our cloud service, you're welcome to <a href=\"[helpdesk_url]\" target=\"_blank\">contact us via Help Desk</a> or configure it on your own."
-msgstr "La generazione di documenti PDF (come fatture, bolle di accompagnamento, ecc.) è stata disattivata. I tuoi dati non passeranno più attraverso il nostro servizio cloud [service_url]. Se desideri generare documenti PDF senza utilizzare il nostro servizio cloud, sei invitato a <a href=\"\"[helpdesk_url]\\\" target=\"_blank\\\">contattarci tramite Help Desk</a> o a configurarlo per conto tuo."
+msgstr "La generazione di documenti PDF (come fatture, bolle di accompagnamento, ecc.) è stata disattivata. I tuoi dati non passeranno più attraverso il nostro servizio cloud [service_url]. Se desideri generare documenti PDF senza utilizzare il nostro servizio cloud, sei invitato a <a href=\"\"[helpdesk_url]\" target=\"_blank\">contattarci tramite Help Desk</a> o a configurarlo per conto tuo."
 

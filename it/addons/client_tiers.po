@@ -122,7 +122,7 @@ msgstr "Controlla ora i ranghi del cliente"
 
 msgctxt "Languages::client_tiers.run_tiers_updating_by_cron"
 msgid "Updating client tiers is the resource-intensive process. It's recommended to run it automatically at certain time intervals.<br>To do it, add the following command to <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
-msgstr "L'aggiornamento dei livelli del client è un processo che richiede molte risorse. Si raccomanda di eseguirlo automaticamente a certi intervalli di tempo.<br>Per farlo, aggiungere il seguente comando a <a href=\"https://en.wikipedia.org/wiki/Cron\\\" target=\"_blank\\\">Cron</a>:"
+msgstr "L'aggiornamento dei livelli del client è un processo che richiede molte risorse. Si raccomanda di eseguirlo automaticamente a certi intervalli di tempo.<br>Per farlo, aggiungere il seguente comando a <a href=\"https://en.wikipedia.org/wiki/Cron\" target=\"_blank\">Cron</a>:"
 
 msgctxt "Languages::client_tiers.all_been_recalculated"
 msgid "Tiers have been checked and updated"
@@ -174,5 +174,5 @@ msgstr "Spostato nel gruppo di utenti"
 
 msgctxt "Languages::client_tiers.installation_message"
 msgid "To help you get started, we have added user groups for Gold, Silver, and Bronze Level Customers, as well as corresponding promotions. Please check <a href=\"[user_groups]\" target=\"_blank\">user groups</a> and <a href=\"[promotions]\" target=\"_blank\">promotions</a>, and adjust them as needed. You can also delete them and create your own."
-msgstr "Per aiutarvi ad iniziare, abbiamo aggiunto gruppi di utenti per i clienti di livello Oro, Argento e Bronzo, così come le promozioni corrispondenti. Per favore controlla <a href=\"\"[user_groups]\\\" target=\"_blank\\\"\">gruppi di utenti</a> e <a href=\"[promotions]\\\" target=\"_blank\\\"\">promozioni</a>, e regolali come necessario. Puoi anche cancellarli e crearne di nuovi."
+msgstr "Per aiutarvi ad iniziare, abbiamo aggiunto gruppi di utenti per i clienti di livello Oro, Argento e Bronzo, così come le promozioni corrispondenti. Per favore controlla <a href=\"\"[user_groups]\" target=\"_blank\"\">gruppi di utenti</a> e <a href=\"[promotions]\" target=\"_blank\"\">promozioni</a>, e regolali come necessario. Puoi anche cancellarli e crearne di nuovi."
 

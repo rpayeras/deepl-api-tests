@@ -74,7 +74,7 @@ msgstr "Vous permet de proposer ce point de ramassage aux résidents d'autres zo
 
 msgctxt "Languages::warehouses.out_of_stock_products"
 msgid "[product] isn't in stock in the selected region.|The following products aren't in stock in the selected region: [products]"
-msgstr "Le [produit] n'est pas en stock dans la région sélectionnée. Les produits suivants ne sont pas en stock dans la région sélectionnée : [produits]"
+msgstr "Le [product] n'est pas en stock dans la région sélectionnée. Les produits suivants ne sont pas en stock dans la région sélectionnée : [products]"
 
 msgctxt "Languages::warehouses.warehouse_stock"
 msgid "Quantities"
@@ -106,11 +106,11 @@ msgstr "Si un produit doit être déplacé vers la zone tarifaire à partir d'ic
 
 msgctxt "Languages::warehouses.destinations_configuration.tooltip"
 msgid "Products can be taken from different stores and warehouses first, depending on where your customer is. <a href=\"[destinations_url]\" target=\"_blank\">Configure store and warehouse priority individually for each rate area.</a>"
-msgstr "Les produits peuvent être pris en priorité dans différents magasins et entrepôts, selon l'endroit où se trouve votre client. <a href=\\\"[destinations_url]\\\" target=\\\"_blank\\\">Configurez la priorité des magasins et des entrepôts individuellement pour chaque zone tarifaire.</a>"
+msgstr "Les produits peuvent être pris en priorité dans différents magasins et entrepôts, selon l'endroit où se trouve votre client. <a href=\"[destinations_url]\" target=\"_blank\">Configurez la priorité des magasins et des entrepôts individuellement pour chaque zone tarifaire.</a>"
 
 msgctxt "Languages::warehouses.shipping_delay.description"
 msgid "Product is at a remote warehouse. If you order it, we'll send it [shipping_delay]."
-msgstr "Le produit se trouve dans un entrepôt distant. Si vous le commandez, nous l'enverrons [délai d'expédition]."
+msgstr "Le produit se trouve dans un entrepôt distant. Si vous le commandez, nous l'enverrons [shipping_delay]."
 
 msgctxt "Languages::warehouses.shipping_delay.description.default"
 msgid "Product is at a remote warehouse. If you order it, shipping may take slightly longer."
@@ -118,7 +118,7 @@ msgstr "Le produit se trouve dans un entrepôt distant. Si vous le commandez, la
 
 msgctxt "Languages::warehouses.shipping_delay.description.short"
 msgid "If ordered: [shipping_delay]"
-msgstr "Si commandé : [délai d'expédition]"
+msgstr "Si commandé : [shipping_delay]"
 
 msgctxt "Languages::warehouses.shipping_delay_for_products"
 msgid "Some of the products you ordered are at a remote warehouse. Shipping may take slightly longer than stated here."
@@ -198,7 +198,7 @@ msgstr "Ajouter tous"
 
 msgctxt "Languages::warehouses.quantity_tab.no_data"
 msgid "This storefront doesn't have any stores or warehouses. Please <a href=\"[create_url]\">create one</a> or <a href=\"[list_url]\">make an existing one available</a> for this storefront"
-msgstr "Cette vitrine ne dispose d'aucun magasin ou entrepôt. Veuillez <a href=\\\"[create_url]\\\">en créer un</a> ou <a href=\\\"[list_url]\\\">mettre à disposition un magasin existant</a> pour cette vitrine."
+msgstr "Cette vitrine ne dispose d'aucun magasin ou entrepôt. Veuillez <a href=\"[create_url]\">en créer un</a> ou <a href=\"[list_url]\">mettre à disposition un magasin existant</a> pour cette vitrine."
 
 msgctxt "Languages::warehouses.exim_reset_inventory_tooltip"
 msgid "This won't affect the products that have the quantity specified in the imported file. This also won't affect products at the warehouses that aren't updated in this preset."

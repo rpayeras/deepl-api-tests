@@ -78,7 +78,7 @@ msgstr "Variazioni"
 
 msgctxt "Languages::product_variations.variation_of_product"
 msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
-msgstr "Variazione dell'articolo del catalogo <a href=\"[url]\\\">[prodotto]</a>"
+msgstr "Variazione dell'articolo del catalogo <a href=\"[url]\">[prodotto]</a>"
 
 msgctxt "Languages::product_variations.group_code"
 msgid "Variation group"
@@ -90,7 +90,7 @@ msgstr "Imposta qui il codice del gruppo personalizzato"
 
 msgctxt "Languages::product_variations.group_code.description"
 msgid "Use the group code on a product editing page or during import to add the product to this group as a variation. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\"."
-msgstr "Usa il codice di gruppo nella pagina di modifica di un prodotto o durante l'importazione per aggiungere il prodotto a questo gruppo come variazione. Un codice di gruppo può contenere solo cifre, caratteri latini e i seguenti segni: \\\"-\" e \\\"_\"."
+msgstr "Usa il codice di gruppo nella pagina di modifica di un prodotto o durante l'importazione per aggiungere il prodotto a questo gruppo come variazione. Un codice di gruppo può contenere solo cifre, caratteri latini e i seguenti segni: \"-\" e \"_\"."
 
 msgctxt "Languages::product_variations.group_code.link"
 msgid "Add to variation group"
@@ -178,11 +178,11 @@ msgstr "Gruppo di variazione #[id] non trovato"
 
 msgctxt "Languages::product_variations.error.product_not_found_in_group"
 msgid "Product #[product_id] not found in variation group \"[group_code]\""
-msgstr "Prodotto #[product_id] non trovato nel gruppo di variazione \\[group_code]\\\""
+msgstr "Prodotto #[product_id] non trovato nel gruppo di variazione \\[group_code]\""
 
 msgctxt "Languages::product_variations.error.cannot_mark_main_product_child_product"
 msgid "Product #[product_id] in group \"[group_code]\" isn't a variation, so it can't become default for a catalog item"
-msgstr "Il prodotto #[product_id] nel gruppo \\\"[group_code]\\\" non è una variazione, quindi non può diventare predefinito per un articolo del catalogo"
+msgstr "Il prodotto #[product_id] nel gruppo \"[group_code]\" non è una variazione, quindi non può diventare predefinito per un articolo del catalogo"
 
 msgctxt "Languages::product_variations.error.generate_combinations_is_empty"
 msgid "Couldn't generate variations. Please specify the values of features to generate variations."
@@ -198,11 +198,11 @@ msgstr "Prodotto #[product_id] non trovato"
 
 msgctxt "Languages::product_variations.error.group_not_found_by_product"
 msgid "Couldn't find variation group for #[product_id] \"[product]\""
-msgstr "Impossibile trovare il gruppo di variazione per #[product_id] \\\"[product]\\\""
+msgstr "Impossibile trovare il gruppo di variazione per #[product_id] \"[product]\""
 
 msgctxt "Languages::product_variations.error.feature_combination_is_invalid_for_product"
 msgid "Wrong combination of features for product #[product_id] \"[product]\""
-msgstr "Combinazione errata di caratteristiche per il prodotto #[product_id] \\\"[product]\\\""
+msgstr "Combinazione errata di caratteristiche per il prodotto #[product_id] \"[product]\""
 
 msgctxt "Languages::product_variations.error.product_ids_empty"
 msgid "Products couldn't be found"
@@ -218,7 +218,7 @@ msgstr "Il codice del gruppo di variazione deve essere specificato"
 
 msgctxt "Languages::product_variations.error.group_code_is_invalid"
 msgid "Couldn't set this code for variation group. A group code can contain only digits, Latin characters, and the following signs: \"-\" and \"_\""
-msgstr "Impossibile impostare questo codice per il gruppo di variazione. Un codice di gruppo può contenere solo cifre, caratteri latini e i seguenti segni: \\\"-\" e \\\"_\""
+msgstr "Impossibile impostare questo codice per il gruppo di variazione. Un codice di gruppo può contenere solo cifre, caratteri latini e i seguenti segni: \"-\" e \"_\""
 
 msgctxt "Languages::product_variations.error.group_code_is_duplicate"
 msgid "The specified variation group code is already in use"
@@ -234,19 +234,19 @@ msgstr "Non sono stati trovati prodotti adatti"
 
 msgctxt "Languages::product_variations.error.product_has_not_required_features"
 msgid "Product #[product_id] \"[product]\" doesn't have the required features to become a variation. Please set feature values for that product."
-msgstr "Il prodotto #[product_id] \\\"[product]\\\" non ha le caratteristiche richieste per diventare una variazione. Imposta i valori delle caratteristiche per quel prodotto."
+msgstr "Il prodotto #[product_id] \"[product]\" non ha le caratteristiche richieste per diventare una variazione. Imposta i valori delle caratteristiche per quel prodotto."
 
 msgctxt "Languages::product_variations.error.product_with_features_combination_exits"
 msgid "Product #[product_id] \"[product]\" has the exact same combination of feature values as a variation that already exists in the group."
-msgstr "Il prodotto #[product_id] \\\"[product]\\\" ha esattamente la stessa combinazione di valori di caratteristica di una variazione che esiste già nel gruppo."
+msgstr "Il prodotto #[product_id] \"[product]\" ha esattamente la stessa combinazione di valori di caratteristica di una variazione che esiste già nel gruppo."
 
 msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.ult"
 msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same storefront."
-msgstr "Il prodotto #[product_id] \\\"[product]\\\" non può essere aggiunto al gruppo di variazione perché tutti i prodotti di un gruppo di variazione devono appartenere alla stessa vetrina."
+msgstr "Il prodotto #[product_id] \"[product]\" non può essere aggiunto al gruppo di variazione perché tutti i prodotti di un gruppo di variazione devono appartenere alla stessa vetrina."
 
 msgctxt "Languages::product_variations.error.product_company_does_not_match_to_group_company.mve"
 msgid "Product #[product_id] \"[product]\" can't be added to the variation group because all products in a variation group must belong to the same vendor."
-msgstr "Il prodotto #[product_id] \\\"[product]\\\" non può essere aggiunto al gruppo di variazione perché tutti i prodotti di un gruppo di variazione devono appartenere allo stesso venditore."
+msgstr "Il prodotto #[product_id] \"[product]\" non può essere aggiunto al gruppo di variazione perché tutti i prodotti di un gruppo di variazione devono appartenere allo stesso venditore."
 
 msgctxt "Languages::product_variations.variations_filling"
 msgid "Variations"
@@ -318,19 +318,19 @@ msgstr "Convertire le variazioni dei prodotti in caratteristiche d'uso"
 
 msgctxt "Languages::product_variations.upgrade_notification.convert_variations_message"
 msgid "<p>Product variations in version 4.10.1 are more powerful than ever. They can now occupy separate positions in the catalog, be filtered and imported easily. To achieve this, we remade variations from scratch. They are now based on features instead of options.</p><p><b>We have disabled the old variations in your store, because they won’t work until they are converted.</b> The conversion is automatic, we just need your consent. Please check what we plan to do, and convert variations to use features.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Check and convert variations</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\">Learn more about variations</a></p>"
-msgstr "<p>Le variazioni dei prodotti nella versione 4.10.1 sono più potenti che mai. Ora possono occupare posizioni separate nel catalogo, essere filtrate e importate facilmente. Per ottenere questo, abbiamo rifatto le variazioni da zero. Ora sono basate sulle caratteristiche invece che sulle opzioni.</p><p><b>Abbiamo disabilitato le vecchie variazioni nel tuo negozio, perché non funzioneranno finché non saranno convertite.</b> La conversione è automatica, abbiamo solo bisogno del tuo consenso. Per favore controlla cosa abbiamo intenzione di fare, e converti le variazioni per usare le caratteristiche.</p><p><a href=\"\"[convert_url]\\\" target=\\\"_blank\\\" class=\"btn btn-large btn-primary\\\">Verifica e converti le variazioni</a> <a href=\\\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\\\" target=\\\"_blank\\\" class=\"btn btn-large\\\">Impara di più sulle variazioni</a></p>"
+msgstr "<p>Le variazioni dei prodotti nella versione 4.10.1 sono più potenti che mai. Ora possono occupare posizioni separate nel catalogo, essere filtrate e importate facilmente. Per ottenere questo, abbiamo rifatto le variazioni da zero. Ora sono basate sulle caratteristiche invece che sulle opzioni.</p><p><b>Abbiamo disabilitato le vecchie variazioni nel tuo negozio, perché non funzioneranno finché non saranno convertite.</b> La conversione è automatica, abbiamo solo bisogno del tuo consenso. Per favore controlla cosa abbiamo intenzione di fare, e converti le variazioni per usare le caratteristiche.</p><p><a href=\"\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Verifica e converti le variazioni</a> <a href=\"https://docs.cs-cart.com/4.10.x/user_guide/manage_products/products/product_variations.html\" target=\"_blank\" class=\"btn btn-large\">Impara di più sulle variazioni</a></p>"
 
 msgctxt "Languages::product_variations.feature_can_be_deleted"
 msgid "Couldn't delete a feature or its variant because at least one variation group is based on it. Please delete <a href=\"[href]\">these products</a> or disband their product groups, and try again."
-msgstr "Impossibile eliminare una caratteristica o la sua variante perché almeno un gruppo di variazione è basato su di essa. Per favore cancella <a href=\"[href]\\\">questi prodotti</a> o sciogli i loro gruppi di prodotti, e riprova."
+msgstr "Impossibile eliminare una caratteristica o la sua variante perché almeno un gruppo di variazione è basato su di essa. Per favore cancella <a href=\"[href]\">questi prodotti</a> o sciogli i loro gruppi di prodotti, e riprova."
 
 msgctxt "Languages::product_variations.notice.old_product_variations_exists"
 msgid "Your store still has old product variations. They currently appear as separate products, without the ability to switch between them. To make them work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>. It's easy and automatic."
-msgstr "Il tuo negozio ha ancora delle vecchie varianti di prodotto. Attualmente appaiono come prodotti separati, senza la possibilità di passare da uno all'altro. Per farle funzionare come prima dell'aggiornamento, <a href=\"[convert_url]\\\">converti le vecchie variazioni in nuove variazioni</a>. È facile e automatico."
+msgstr "Il tuo negozio ha ancora delle vecchie varianti di prodotto. Attualmente appaiono come prodotti separati, senza la possibilità di passare da uno all'altro. Per farle funzionare come prima dell'aggiornamento, <a href=\"[convert_url]\">converti le vecchie variazioni in nuove variazioni</a>. È facile e automatico."
 
 msgctxt "Languages::product_variations.notice.is_old_product_variation"
 msgid "This product is an old variation that hasn't been converted yet. To make it work as before the upgrade, <a href=\"[convert_url]\">convert old variations to new variations</a>."
-msgstr "Questo prodotto è una vecchia variante che non è stata ancora convertita. Per farlo funzionare come prima dell'aggiornamento, <a href=\"[convert_url]\\\">converti le vecchie variazioni in nuove variazioni</a>."
+msgstr "Questo prodotto è una vecchia variante che non è stata ancora convertita. Per farlo funzionare come prima dell'aggiornamento, <a href=\"[convert_url]\">converti le vecchie variazioni in nuove variazioni</a>."
 
 msgctxt "Languages::variation_set_as_default"
 msgid "Variation set as default"
@@ -338,7 +338,7 @@ msgstr "Variazione impostata come predefinita"
 
 msgctxt "Languages::product_variations.cant_edit_feature_categories"
 msgid "Couldn't restrict the feature's availability in categories. <a href=\"[href]\">Some product variations with that feature</a> are still available in the categories where you tried to restrict the feature. Please remove the variation groups from those categories and try again."
-msgstr "Impossibile limitare la disponibilità della caratteristica nelle categorie. <a href=\"\"[href]\\\">Alcune varianti di prodotto con quella caratteristica</a> sono ancora disponibili nelle categorie dove hai provato a limitare la caratteristica. Per favore rimuovi i gruppi di variazioni da quelle categorie e prova di nuovo."
+msgstr "Impossibile limitare la disponibilità della caratteristica nelle categorie. <a href=\"\"[href]\">Alcune varianti di prodotto con quella caratteristica</a> sono ancora disponibili nelle categorie dove hai provato a limitare la caratteristica. Per favore rimuovi i gruppi di variazioni da quelle categorie e prova di nuovo."
 
 msgctxt "Languages::product_variations.too_many_combinations"
 msgid "Sorry, there are too many possible variations that can be generated. To prevent heavy load, we won't display them here. Please create the products with the right feature values manually or via import, and add them to the group."
@@ -370,11 +370,11 @@ msgstr "Creare [n] variazioni|Creare [n] variazioni"
 
 msgctxt "Languages::product_variations.allow_own_features_setting_changing"
 msgid "You've disabled the <b>Allow own feature values for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their feature values to existing child variations."
-msgstr "Hai disattivato l'impostazione <b>Allow own feature values for child variations</b>. Esporta <a href=\"[url]\\\">tutte le tue variazioni predefinite</a> (usa \"Esporta prodotti trovati\" nel pulsante con l'ingranaggio) e reimportale. Questo applicherà i loro valori di caratteristica alle variazioni figlio esistenti."
+msgstr "Hai disattivato l'impostazione <b>Allow own feature values for child variations</b>. Esporta <a href=\"[url]\">tutte le tue variazioni predefinite</a> (usa \"Esporta prodotti trovati\" nel pulsante con l'ingranaggio) e reimportale. Questo applicherà i loro valori di caratteristica alle variazioni figlio esistenti."
 
 msgctxt "Languages::product_variations.allow_own_images_setting_changing"
 msgid "You've disabled the <b>Allow own images for child variations</b> setting. Please export <a href=\"[url]\">all your default variations</a> (use \"Export found products\" in the gear button) and reimport them. This will apply their images to existing child variations."
-msgstr "Hai disattivato l'impostazione <b>Allow own images for child variations</b>. Esporta <a href=\"[url]\\\">tutte le tue variazioni predefinite</a> (usa \"Esporta prodotti trovati\" nel pulsante con l'ingranaggio) e reimportale. Questo applicherà le loro immagini alle variazioni figlio esistenti."
+msgstr "Hai disattivato l'impostazione <b>Allow own images for child variations</b>. Esporta <a href=\"[url]\">tutte le tue variazioni predefinite</a> (usa \"Esporta prodotti trovati\" nel pulsante con l'ingranaggio) e reimportale. Questo applicherà le loro immagini alle variazioni figlio esistenti."
 
 msgctxt "Languages::product_variations.upgrade_notification.convert_combination_title"
 msgid "Convert option combinations to product variations"
@@ -382,11 +382,11 @@ msgstr "Convertire le combinazioni di opzioni in variazioni di prodotto"
 
 msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message"
 msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p><a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Convert option combinations</a></p>"
-msgstr "<p>Nella prossima versione 4.12.1, le variazioni dei prodotti sostituiranno completamente le combinazioni di opzioni. Il codice che gestisce le combinazioni di opzioni sarà rimosso. Si prega di notare che SOLO <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\\\" target=\"_blank\\\">le combinazioni di opzioni</a> e il loro codice saranno rimossi. Le <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\\\" target=\"_blank\\\"\">opzioni</a> stesse rimarranno esattamente come sono ora.</p><p>Il tuo negozio ha ancora combinazioni di opzioni. Ecco perché ti chiediamo di convertire le combinazioni di opzioni in varianti di prodotto. Il processo è per lo più automatico. Chiediamo solo il tuo contributo per assicurarci che tutto vada bene e secondo le tue aspettative.</p><p><a href=\"\"[convert_url]\\\" target=\"_blank\\\" class=\"btn btn-large btn-primary\\\">Converti le combinazioni di opzioni</a></p>"
+msgstr "<p>Nella prossima versione 4.12.1, le variazioni dei prodotti sostituiranno completamente le combinazioni di opzioni. Il codice che gestisce le combinazioni di opzioni sarà rimosso. Si prega di notare che SOLO <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">le combinazioni di opzioni</a> e il loro codice saranno rimossi. Le <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\"\">opzioni</a> stesse rimarranno esattamente come sono ora.</p><p>Il tuo negozio ha ancora combinazioni di opzioni. Ecco perché ti chiediamo di convertire le combinazioni di opzioni in varianti di prodotto. Il processo è per lo più automatico. Chiediamo solo il tuo contributo per assicurarci che tutto vada bene e secondo le tue aspettative.</p><p><a href=\"\"[convert_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Converti le combinazioni di opzioni</a></p>"
 
 msgctxt "Languages::product_variations.upgrade_notification.convert_combination_message_without_variations"
 msgid "<p>In the upcoming version 4.12.1, product variations will fully replace option combinations. The code that handles option combinations will be removed. Please note that ONLY <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">option combinations</a> and their code will be removed. <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\">Options</a> themselves will remain exactly as they are now.</p><p>Your store still has option combinations. That's why we ask you to convert option combinations into product variations. The process is mostly automatic. We only ask your input to make sure that everything goes smoothly and according to your expectations.</p><p>However, the Product Variations add-on isn't active in your store yet. You'll need to install or enable it first, and run the conversion.</p><p><a href=\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. Activate the add-on</a> <a href=\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. Convert option combinations</a></p>"
-msgstr "<p>Nella prossima versione 4.12.1, le variazioni dei prodotti sostituiranno completamente le combinazioni di opzioni. Il codice che gestisce le combinazioni di opzioni sarà rimosso. Si prega di notare che SOLO <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\\\" target=\"_blank\\\">le combinazioni di opzioni</a> e il loro codice saranno rimossi. Le <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\\\" target=\"_blank\\\"\">opzioni</a> stesse rimarranno esattamente come sono ora.</p><p>Il tuo negozio ha ancora combinazioni di opzioni. Ecco perché ti chiediamo di convertire le combinazioni di opzioni in varianti di prodotto. Il processo è per lo più automatico. Chiediamo solo il tuo contributo per assicurarci che tutto vada liscio e secondo le tue aspettative.</p><p>Tuttavia, l'add-on Variazioni di prodotto non è ancora attivo nel tuo negozio. Dovrai prima installarlo o attivarlo ed eseguire la conversione.</p><p><a href=\"\"[search_for_addon]\\\" target=\\\"_blank\\\" class=\"btn btn-large\\\">1. Attiva il componente aggiuntivo</a> <a href=\"\"[convert_url]\\\" target=\\\"_blank\\\" class=\"btn btn-large\\\">2. Converti le combinazioni di opzioni</a></p>"
+msgstr "<p>Nella prossima versione 4.12.1, le variazioni dei prodotti sostituiranno completamente le combinazioni di opzioni. Il codice che gestisce le combinazioni di opzioni sarà rimosso. Si prega di notare che SOLO <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/option_combinations.html\" target=\"_blank\">le combinazioni di opzioni</a> e il loro codice saranno rimossi. Le <a href=\"https://docs.cs-cart.com/4.11.x/user_guide/manage_products/options/index.html\" target=\"_blank\"\">opzioni</a> stesse rimarranno esattamente come sono ora.</p><p>Il tuo negozio ha ancora combinazioni di opzioni. Ecco perché ti chiediamo di convertire le combinazioni di opzioni in varianti di prodotto. Il processo è per lo più automatico. Chiediamo solo il tuo contributo per assicurarci che tutto vada liscio e secondo le tue aspettative.</p><p>Tuttavia, l'add-on Variazioni di prodotto non è ancora attivo nel tuo negozio. Dovrai prima installarlo o attivarlo ed eseguire la conversione.</p><p><a href=\"\"[search_for_addon]\" target=\"_blank\" class=\"btn btn-large\">1. Attiva il componente aggiuntivo</a> <a href=\"\"[convert_url]\" target=\"_blank\" class=\"btn btn-large\">2. Converti le combinazioni di opzioni</a></p>"
 
 msgctxt "Languages::product_variations.add_all_variants"
 msgid "Add all variants"

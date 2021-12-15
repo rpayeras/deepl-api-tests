@@ -157,11 +157,11 @@ msgid "/product-name.html"
 msgstr "/nome-prodotto.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
-msgid "/category-name/[subcategory-name/]product-name/"
+msgid "/category-name/[company]product-name/"
 msgstr "/categoria/[sottocategoria/]nome-prodotto/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category"
-msgid "/category-name/[subcategory-name/]product-name.html"
+msgid "/category-name/[company]product-name.html"
 msgstr "/categoria/[sottocategoria/]nome-prodotto.html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"

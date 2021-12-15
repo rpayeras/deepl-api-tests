@@ -266,7 +266,7 @@ msgstr "Trop de produits ([actual]/[allowed])"
 
 msgctxt "Languages::vendor_plans.much_revenue_text"
 msgid "Too much revenue ([actual]/[allowed])"
-msgstr "Trop de revenus"
+msgstr "Trop de revenus ([actual]/[allowed])"
 
 msgctxt "Languages::vendor_plans.plan_not_available_text"
 msgid "Sorry, this plan is not available for you. Please choose an available plan."
@@ -314,7 +314,7 @@ msgstr "[amount]% de [sum]"
 
 msgctxt "Languages::addons.vendor_plans.payout_for_the_plan"
 msgid "Payout for the vendor plan: [plan]"
-msgstr "Paiement pour le plan vendeur"
+msgstr "Paiement pour le plan vendeur: [plan]"
 
 msgctxt "Languages::vendor_plan"
 msgid "Vendor plan"

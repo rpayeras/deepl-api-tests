@@ -294,7 +294,7 @@ msgstr "[amount]% sur [sum]"
 
 msgctxt "Languages::addons.paypal_adaptive.withdrawal_for_the_order"
 msgid "Withdrawal for the order #[order_id]"
-msgstr "Versement pour la commande #{order_id}"
+msgstr "Versement pour la commande #[order_id]"
 
 msgctxt "Languages::addons.paypal_adaptive.payment_type_notice"
 msgid "Chained payments can't be used if the <a href=\"[url]\" target=\"_blank\">PayPal Adaptive Payments</a> add-on is configured to collect both order commission and unpaid payouts."

@@ -66,7 +66,7 @@ msgstr "Ajouter un nouveau paquet"
 
 msgctxt "Languages::product_bundles.delete_product_in_bundle"
 msgid "The <b>[bundle_name]</b> bundle was disabled, because of the products from this bundle was deleted.|The <b>[bundle_name]</b> bundle were disabled, because one of the products from these bundles was deleted."
-msgstr "Le <b>[nom_du_bundle]</b> bundle a été désactivé, car un des produits de ce bundle a été supprimé.|Le <b>[nom_du_bundle]</b> bundle a été désactivé, car un des produits de ces bundles a été supprimé."
+msgstr "Le <b>[bundle_name]</b> bundle a été désactivé, car un des produits de ce bundle a été supprimé.|Le <b>[bundle_name]</b> bundle a été désactivé, car un des produits de ces bundles a été supprimé."
 
 msgctxt "Languages::product_bundles.new_bundle"
 msgid "New bundle"

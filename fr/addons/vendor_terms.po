@@ -30,7 +30,7 @@ msgstr "Si vous voulez qu'un client soit d'accord avec vos termes et conditions 
 
 msgctxt "Languages::vendor_terms.checkout_terms_and_conditions"
 msgid "I accept the [terms_href] of [vendor]"
-msgstr "J'acceptes les"
+msgstr "J'acceptes les [terms_href] of [vendor]"
 
 msgctxt "Languages::vendor_terms.checkout_terms_and_conditions_name"
 msgid "Terms & conditions"

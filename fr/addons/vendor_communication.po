@@ -106,7 +106,7 @@ msgstr "Posez une question"
 
 msgctxt "Languages::vendor_communication.contact_vendor_name"
 msgid "Contact [vendor_name]"
-msgstr "Contactez [nom du vendeur]."
+msgstr "Contactez [vendor_name]."
 
 msgctxt "Languages::vendor_communication.created_at"
 msgid "Created on"
@@ -114,11 +114,11 @@ msgstr "Créé le"
 
 msgctxt "Languages::vendor_communication.new_thread_created"
 msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
-msgstr "Votre message a été envoyé à <b>[nom_du_fournisseur]</b>.<br/><br/>La réponse du fournisseur sera envoyée à l'adresse e-mail de votre compte. Pour consulter l'historique de vos messages, veuillez <a href=\\\"[thread_url]\\\">aller dans le Centre de messages</a> situé dans la section \\\"Messages\\\" du menu \\\"Mon compte\\\"."
+msgstr "Votre message a été envoyé à <b>[vendor_name]</b>.<br/><br/>La réponse du fournisseur sera envoyée à l'adresse e-mail de votre compte. Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\">aller dans le Centre de messages</a> situé dans la section \"Messages\" du menu \"Mon compte\"."
 
 msgctxt "Languages::vendor_communication.message_sent"
 msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
-msgstr "Votre message a été envoyé à <b>[nom_du_fournisseur]</b>.<br/><br/>Nous vous informerons d'une réponse. Pour consulter l'historique de vos messages, veuillez <a href=\\\"[thread_url]\\\" target=\\\"_blank\\\">aller dans le Centre de messages</a> situé dans la section \\\"Messages\\\" du menu \\\"Mon compte\\\"."
+msgstr "Votre message a été envoyé à <b>[vendor_name]</b>.<br/><br/>Nous vous informerons d'une réponse. Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\" target=\"_blank\">aller dans le Centre de messages</a> situé dans la section \"Messages\" du menu \"Mon compte\"."
 
 msgctxt "Languages::vendor_communication.cannot_update_thread"
 msgid "Cannot update thread"
@@ -138,7 +138,7 @@ msgstr "Posez une question au vendeur : Avis aux clients"
 
 msgctxt "Languages::vendor_communication.you_have_new_message"
 msgid "You have a new <a href=\"[thread_url]\">message</a> from [message_from]."
-msgstr "Vous avez reçu un nouveau <a href=\\\"[thread_url]\\\">message</a> de [message_from]."
+msgstr "Vous avez reçu un nouveau <a href=\"[thread_url]\">message</a> de [message_from]."
 
 msgctxt "Languages::vendor_communication.subject_email"
 msgid "You have a new message from [message_from]"
@@ -234,7 +234,7 @@ msgstr "Centre de messages : communication client-fournisseur"
 
 msgctxt "Languages::vendor_communication.your_message_to_vendor_name"
 msgid "Your message to [vendor_name]"
-msgstr "Votre message à [nom_du_fournisseur]"
+msgstr "Votre message à [vendor_name]"
 
 msgctxt "Languages::vendor_communication.please_log_in_to_be_notified"
 msgid "Please sign in so that we can notify you about a reply"
@@ -258,7 +258,7 @@ msgstr "Nouveau message reçu"
 
 msgctxt "Languages::vendor_communication.new_message.title"
 msgid "[company_name] has a new message from [customer]"
-msgstr "[nom_de_l'entreprise] a un nouveau message de [client]."
+msgstr "[company_name] a un nouveau message de [customer]."
 
 msgctxt "Languages::vendor_communication.new_message.message"
 msgid "Click this notification to see the message"
@@ -302,19 +302,19 @@ msgstr "Votre message à l'administrateur"
 
 msgctxt "Languages::vendor_communication.some_threads_have_not_been_created"
 msgid "Some threads have not been created: [count]"
-msgstr "Certains fils n'ont pas été créés : [compte]"
+msgstr "Certains fils n'ont pas été créés : [count]"
 
 msgctxt "Languages::vendor_communication.vendor_to_admin.message_sent"
 msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
-msgstr "Votre message a été envoyé à <b>[nom]</b>.<br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\\\">aller dans le Centre de messages</a> situé dans le menu \"Vendeurs\"."
+msgstr "Votre message a été envoyé à <b>[name]</b>.<br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\">aller dans le Centre de messages</a> situé dans le menu \"Vendeurs\"."
 
 msgctxt "Languages::vendor_communication.vendor_to_customer.message_sent"
 msgid "Your message has been sent to <b>[name]</b>.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Customers\" menu."
-msgstr "Votre message a été envoyé à <b>[nom]</b>.<br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\\\">aller dans le Centre de messages</a> situé dans le menu \"Clients\"."
+msgstr "Votre message a été envoyé à <b>[name]</b>.<br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\">aller dans le Centre de messages</a> situé dans le menu \"Clients\"."
 
 msgctxt "Languages::vendor_communication.vendor_to_admin.message_list_sent"
 msgid "Your messages have been sent.<br/><br/>To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Vendors\" menu."
-msgstr "Vos messages ont été envoyés. <br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\\\"[thread_url]\\\">aller dans le Centre de messages</a> situé dans le menu \\\"Vendeurs\\\"."
+msgstr "Vos messages ont été envoyés. <br/><br/>Pour consulter l'historique de vos messages, veuillez <a href=\"[thread_url]\">aller dans le Centre de messages</a> situé dans le menu \"Vendeurs\"."
 
 msgctxt "Languages::privilege_groups.admin_communication"
 msgid "Message center: vendor-to-admin communication"

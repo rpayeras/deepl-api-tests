@@ -130,7 +130,7 @@ msgstr "Le remboursement a été fait par Paypal"
 
 msgctxt "Languages::addons.paypal.refund_message"
 msgid "[amount] [currency] have been refunded in [date] at [time]."
-msgstr "{Amount} {currency} ont ete annules dans {Date} a {time}."
+msgstr "[amount] [currency] ont ete annules dans [date] a [time]."
 
 msgctxt "SettingsOptions::paypal::paypal_partial_refund_action"
 msgid "Order status on partial refund"

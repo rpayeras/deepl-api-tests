@@ -38,7 +38,7 @@ msgstr "Les méthodes d'expédition appartenant à la place de marché seront d�
 
 msgctxt "Languages::order_fulfillment.company_moved_to_fulfillment"
 msgid "Vendor [name] moved to a plan with order fulfillment by marketplace. The vendor will now use the shipping methods provided by the marketplace instead of their own."
-msgstr "Le fournisseur [nom] est passé à un plan avec exécution des commandes par la place de marché. Le fournisseur utilisera désormais les méthodes d'expédition fournies par la place de marché au lieu des siennes."
+msgstr "Le fournisseur [name] est passé à un plan avec exécution des commandes par la place de marché. Le fournisseur utilisera désormais les méthodes d'expédition fournies par la place de marché au lieu des siennes."
 
 msgctxt "Languages::order_fulfillment.you_moved_to_fulfillment"
 msgid "You have moved to a plan with order fulfillment by marketplace. From now on, the marketplace shipping methods will be offered to your customers."
@@ -46,7 +46,7 @@ msgstr "Vous êtes passé à un plan avec exécution des commandes par la place 
 
 msgctxt "Languages::order_fulfillment.company_moved_from_fulfillment"
 msgid "Vendor [name] moved to a plan without order fulfillment by marketplace. The vendor now has to offer his own shipping methods."
-msgstr "Le vendeur [nom] est passé à un plan sans exécution des commandes par la place de marché. Le vendeur doit maintenant proposer ses propres méthodes d'expédition."
+msgstr "Le vendeur [name] est passé à un plan sans exécution des commandes par la place de marché. Le vendeur doit maintenant proposer ses propres méthodes d'expédition."
 
 msgctxt "Languages::order_fulfillment.you_moved_from_fulfillment"
 msgid "You have moved to a plan without order fulfillment by marketplace. Please make sure to set up your own shipping methods."

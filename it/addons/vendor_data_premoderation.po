@@ -218,7 +218,7 @@ msgstr "Approvare il prodotto"
 
 msgctxt "Languages::vendor_data_premoderation.approve_product"
 msgid "Approve \"[product]\""
-msgstr "Approvare \\\"[prodotto]\\\""
+msgstr "Approvare \"[prodotto]\""
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
 msgid "Disapprove product"
@@ -226,7 +226,7 @@ msgstr "Disapprova il prodotto"
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_product"
 msgid "Disapprove \"[product]\""
-msgstr "Disapprova \\\"[prodotto]\\\""
+msgstr "Disapprova \"[prodotto]\""
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_products"
 msgid "Disapprove products"
@@ -254,7 +254,7 @@ msgstr "Il tuo prodotto è stato approvato|I tuoi prodotti sono stati approvati"
 
 msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
 msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
-msgstr "\\\"[prodotto]\\\" è stato approvato dall'amministrazione del negozio e aggiunto al catalogo prodotti. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati approvati dall'amministrazione del negozio e aggiunti al catalogo prodotti. Clicca qui per vedere questi prodotti."
+msgstr "\"[prodotto]\" è stato approvato dall'amministrazione del negozio e aggiunto al catalogo prodotti. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati approvati dall'amministrazione del negozio e aggiunti al catalogo prodotti. Clicca qui per vedere questi prodotti."
 
 msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
 msgid "Your product has been disapproved|Your products have been disapproved"
@@ -262,11 +262,11 @@ msgstr "Il tuo prodotto è stato disapprovato|I tuoi prodotti sono stati disappr
 
 msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
 msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
-msgstr "\\\"[prodotto]\\\" è stato disapprovato dall'amministrazione del negozio. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati disapprovati dall'amministrazione del negozio. Clicca qui per vedere questi prodotti."
+msgstr "\"[prodotto]\" è stato disapprovato dall'amministrazione del negozio. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati disapprovati dall'amministrazione del negozio. Clicca qui per vedere questi prodotti."
 
 msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
 msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."
-msgstr "Le tue modifiche sono state salvate. Prima che il tuo prodotto venga aggiunto al catalogo prodotti, deve essere approvato dall'amministrazione del negozio. Segui <a href=\"\"[product_approval_url]\\\">questo link</a> per vedere i prodotti che richiedono l'approvazione. Prima che i tuoi prodotti siano aggiunti al catalogo prodotti, devono essere approvati dall'amministrazione del negozio. Segui <a href=\"\"[product_approval_url]\\\">questo link</a> per vedere i prodotti che richiedono l'approvazione."
+msgstr "Le tue modifiche sono state salvate. Prima che il tuo prodotto venga aggiunto al catalogo prodotti, deve essere approvato dall'amministrazione del negozio. Segui <a href=\"\"[product_approval_url]\">questo link</a> per vedere i prodotti che richiedono l'approvazione. Prima che i tuoi prodotti siano aggiunti al catalogo prodotti, devono essere approvati dall'amministrazione del negozio. Segui <a href=\"\"[product_approval_url]\">questo link</a> per vedere i prodotti che richiedono l'approvazione."
 
 msgctxt "Languages::vendor_data_premoderation.event.product_status.approved.name"
 msgid "Vendor data premoderation: your product was approved"
@@ -306,7 +306,7 @@ msgstr "Richiesto per tutti i venditori"
 
 msgctxt "Languages::vendor_data_premoderation.preventing_registration_info_text"
 msgid "If you want to prevent vendor registration altogether, please check <a href=\"[url]\" target=\"_blank\">Settings → Vendors</a>."
-msgstr "Se vuoi evitare del tutto la registrazione dei venditori, controlla <a href=\"[url]\\\" target=\"_blank\\\">Impostazioni → Venditori</a>."
+msgstr "Se vuoi evitare del tutto la registrazione dei venditori, controlla <a href=\"[url]\" target=\"_blank\">Impostazioni → Venditori</a>."
 
 msgctxt "Languages::vendor_data_premoderation.prior_to_date"
 msgid "Prior to [date]"

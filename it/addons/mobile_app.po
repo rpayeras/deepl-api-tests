@@ -198,7 +198,7 @@ msgstr "Caratteristica Immagine grafica"
 
 msgctxt "Languages::tt_mobile_app.m_app_store_logo"
 msgid "(1024 x 500). It's the image shown in the Google Play page of your application, see \"Feature Graphic\" section <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">here</a>"
-msgstr "(1024 x 500). È l'immagine mostrata nella pagina Google Play della tua applicazione, vedi la sezione \"Feature Graphic\" <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\\\" target=\"_blank\\\">qui</a>"
+msgstr "(1024 x 500). È l'immagine mostrata nella pagina Google Play della tua applicazione, vedi la sezione \"Feature Graphic\" <a href=\"https://support.google.com/googleplay/android-developer/answer/1078870?hl=en\" target=\"_blank\">qui</a>"
 
 msgctxt "Languages::mobile_app.download_config"
 msgid "Download config"
@@ -246,7 +246,7 @@ msgstr "Chiave API per le notifiche push"
 
 msgctxt "Languages::mobile_app.fcm_api_key_tooltip"
 msgid "Obtain the Cloud Messaging <b>Legacy server key</b> from the <a href=\"https://console.firebase.google.com\" target=\"_blank\">Firebase console</a> using your bundle ID: [bundle_id]"
-msgstr "Ottieni la chiave del server di messaggistica in cloud <b>Legacy</b> dalla <a href=\"https://console.firebase.google.com\\\" target=\\\"_blank\\\">console Firebase</a> usando il tuo ID bundle: [bundle_id]"
+msgstr "Ottieni la chiave del server di messaggistica in cloud <b>Legacy</b> dalla <a href=\"https://console.firebase.google.com\" target=\"_blank\">console Firebase</a> usando il tuo ID bundle: [bundle_id]"
 
 msgctxt "Languages::mobile_app.services_config"
 msgid "Firebase config file (Android)"
@@ -274,7 +274,7 @@ msgstr "Identificatore del commerciante"
 
 msgctxt "Languages::mobile_app.apple_pay_merchant_identifier_tooltip"
 msgid "Obtain the <b>Merchant Identifier</b> as described in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Developer Account Help</a>"
-msgstr "Ottieni l'<b>Identificatore commerciante</b> come descritto in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\\\" target=\"_blank\\\">Aiuto per l'account sviluppatore</a>"
+msgstr "Ottieni l'<b>Identificatore commerciante</b> come descritto in <a href=\"https://help.apple.com/developer-account/#/devb2e62b839?sub=dev103e030bb\" target=\"_blank\">Aiuto per l'account sviluppatore</a>"
 
 msgctxt "Languages::mobile_app.apple_pay_merchant_name"
 msgid "Merchant name"
@@ -302,7 +302,7 @@ msgstr "Aggiornare i testi usando i file di localizzazione esistenti"
 
 msgctxt "Languages::mobile_app.invalid_locale_file"
 msgid "Locale file selected for the \"[language]\" language is not a valid JSON file"
-msgstr "Il file di localizzazione selezionato per la lingua \\\"[lingua]\\\" non è un file JSON valido"
+msgstr "Il file di localizzazione selezionato per la lingua \"[lingua]\" non è un file JSON valido"
 
 msgctxt "Languages::mobile_app.app_translation_updated.item"
 msgid "[language]: [n] texts|[language]: [n] texts"
@@ -4482,7 +4482,7 @@ msgstr "ID dell'applicazione Google Play"
 
 msgctxt "Languages::mobile_app.promotion_note"
 msgid "Visitors of your site who use iOS or Android devices will see a prompt to install the mobile application.<br>To show your application's icon in this prompt, <a href=\"[icon_url]\">upload App Icon</a> in the add-on settings. If App Icon is not specified, the favicon of a storefront will be used instead."
-msgstr "I visitatori del tuo sito che usano dispositivi iOS o Android vedranno una richiesta di installare l'applicazione mobile.<br>Per mostrare l'icona della tua applicazione in questa richiesta, <a href=\"[icon_url]\\\">caricare App Icon</a> nelle impostazioni del componente aggiuntivo. Se App Icon non è specificata, verrà invece utilizzata la favicon di una vetrina."
+msgstr "I visitatori del tuo sito che usano dispositivi iOS o Android vedranno una richiesta di installare l'applicazione mobile.<br>Per mostrare l'icona della tua applicazione in questa richiesta, <a href=\"[icon_url]\">caricare App Icon</a> nelle impostazioni del componente aggiuntivo. Se App Icon non è specificata, verrà invece utilizzata la favicon di una vetrina."
 
 msgctxt "Languages::mobile_app.we_also_have_a_mobile_app"
 msgid "We also have a mobile app"
@@ -4498,11 +4498,11 @@ msgstr "Aprire"
 
 msgctxt "Languages::mobile_app.app_store_app_id_tooltip"
 msgid "Take it from the application link in <a href=\"https://www.apple.com/app-store\" target=\"_blank\">App Store</a>. <br> For example, in https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 the ID is 1304872157."
-msgstr "Prendilo dal link dell'applicazione in <a href=\"https://www.apple.com/app-store\\\" target=\"_blank\\\">App Store</a>. <br> Per esempio, in https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 l'ID è 1304872157."
+msgstr "Prendilo dal link dell'applicazione in <a href=\"https://www.apple.com/app-store\" target=\"_blank\">App Store</a>. <br> Per esempio, in https://apps.apple.com/us/app/multi-vendor-app-by-cs-cart/id1304872157 l'ID è 1304872157."
 
 msgctxt "Languages::mobile_app.google_play_app_id_tooltip"
 msgid "Take it from the application link in <a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>. <br> For example, in https://play.google.com/store/apps/details?id=com.simtech.multivendor&hl=en_US the ID is com.simtech.multivendor."
-msgstr "Prendilo dal link dell'applicazione in <a href=\"https://play.google.com/store\\\" target=\"_blank\\\">Google Play</a>. <br> Per esempio, in https://play.google.com/store/apps/details?id=com.simtech.multivendor"
+msgstr "Prendilo dal link dell'applicazione in <a href=\"https://play.google.com/store\" target=\"_blank\">Google Play</a>. <br> Per esempio, in https://play.google.com/store/apps/details?id=com.simtech.multivendor"
 
 msgctxt "Languages::mobile_app.mobile_taxes"
 msgid "Taxes"

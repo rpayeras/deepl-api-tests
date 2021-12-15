@@ -46,7 +46,7 @@ msgstr "Hello!<br/><br/> Lei ha uno nuovo candidato nel suo archivio. Questo con
 
 msgctxt "Languages::new_vendor_notification"
 msgid "Hello,<br/><br/>A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor's account details.</a>"
-msgstr "Ciao,<br/><br/>Un nuovo venditore si è registrato e ha ricevuto l'accesso alla vetrina e al pannello di amministrazione. <a href=\"\"[link]\\\">Usa questo link per visualizzare i dettagli dell'account del venditore.</a>"
+msgstr "Ciao,<br/><br/>Un nuovo venditore si è registrato e ha ricevuto l'accesso alla vetrina e al pannello di amministrazione. <a href=\"\"[link]\">Usa questo link per visualizzare i dettagli dell'account del venditore.</a>"
 
 msgctxt "Languages::demo_panel.go_vendor_panel"
 msgid "Go to Vendor panel"
@@ -258,7 +258,7 @@ msgstr "Hai vendors che richiedono l'approvazione. Prego segui questo link [foll
 
 msgctxt "Languages::text_created_new_vendors"
 msgid "A new vendor has registered and received access to the storefront and the admin panel. <a href=\"[link]\">Use this link to view the vendor.</a> "
-msgstr "Un nuovo venditore si è registrato e ha ricevuto l'accesso alla vetrina e al pannello di amministrazione. <a href=\"\"[link]\\\">Usa questo link per visualizzare il venditore.</a>"
+msgstr "Un nuovo venditore si è registrato e ha ricevuto l'accesso alla vetrina e al pannello di amministrazione. <a href=\"\"[link]\">Usa questo link per visualizzare il venditore.</a>"
 
 msgctxt "Languages::text_successful_request"
 msgid "Your request was successfully added. You will receive the email with the answer later."
@@ -462,7 +462,7 @@ msgstr "Vieni a vendere con [nome_azienda_predefinito]"
 
 msgctxt "Languages::vendor_invitation_email_body"
 msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name]. You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
-msgstr "<p>Ciao,</p><br/><p>Vorremmo invitarti a <a href=\"[create_account_url]\\\">creare un account</a> con [default_company_name]. Sarai in grado di espandere la tua base di clienti elencando i tuoi prodotti sulla nostra piattaforma e vendendoli ai nostri visitatori.</p><br/><p>Saluti, </p><p>Squadra di [nome_azienda_predefinito]</p>"
+msgstr "<p>Ciao,</p><br/><p>Vorremmo invitarti a <a href=\"[create_account_url]\">creare un account</a> con [default_company_name]. Sarai in grado di espandere la tua base di clienti elencando i tuoi prodotti sulla nostra piattaforma e vendendoli ai nostri visitatori.</p><br/><p>Saluti, </p><p>Squadra di [nome_azienda_predefinito]</p>"
 
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"
@@ -490,11 +490,11 @@ msgstr "[L'Ultimate è richiesto per questo"
 
 msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
 msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
-msgstr "Questa azione richiede [prodotto] Ultimate o [prodotto] Plus. Se passi a <a href=\"\"[mve_ultimate_license_url]\\\" target=\"_blank\\\\\">[prodotto] Ultimate</a> o <a href=\"[mve_plus_license_url]\\\" target=\"_blank\\\">[prodotto] Plus</a>, avrai accesso a tutte le loro caratteristiche."
+msgstr "Questa azione richiede [prodotto] Ultimate o [prodotto] Plus. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[prodotto] Ultimate</a> o <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] Plus</a>, avrai accesso a tutte le loro caratteristiche."
 
 msgctxt "Languages::max_storefronts_reached"
 msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. L'aggiunta di un'altra vetrina richiede l'acquisto di un <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate</a>, un'edizione con un numero illimitato di vetrine.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. L'aggiunta di un'altra vetrina richiede l'acquisto di un <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>, un'edizione con un numero illimitato di vetrine.</p>"
 
 msgctxt "Languages::mve_plus_license"
 msgid "[product] Plus"
@@ -514,7 +514,7 @@ msgstr "<p>Franchising: ottieni un numero illimitato di vetrine per il tuo marke
 
 msgctxt "Languages::text_mve_ultimate_license"
 msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
-msgstr "Un'edizione speciale di [prodotto] che offre tutte le caratteristiche di [prodotto] Plus e un numero illimitato di vetrine. Se passi a <a href=\"\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
+msgstr "Un'edizione speciale di [prodotto] che offre tutte le caratteristiche di [prodotto] Plus e un numero illimitato di vetrine. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
 
 msgctxt "Languages::product_state_description.mve.new"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -522,11 +522,11 @@ msgstr "<p>Accesso pieno non limitato per tutte le caratteristiche. Introdurre u
 
 msgctxt "Languages::product_state_description.mve"
 msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
-msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\\\" target=\"_blank\\\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] licenza Ultimate.</a></p><br>"
+msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] licenza Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.mve.plus"
 msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
-msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate license.</a></p><br />"
+msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate license.</a></p><br />"
 
 msgctxt "Languages::product_state_description.mve.ultimate"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -542,11 +542,11 @@ msgstr "<p>Accesso completo e illimitato a tutte le funzioni. Inserisci un numer
 
 msgctxt "Languages::product_state_description.mve.ru"
 msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
-msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\\\" target=\"_blank\\\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] licenza Ultimate.</a></p><br>"
+msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] licenza Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.mve.ru.plus"
 msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
-msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate license.</a></p><br />"
+msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate license.</a></p><br />"
 
 msgctxt "Languages::product_state_description.mve.ru.ultimate"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -558,11 +558,11 @@ msgstr "<p>Accesso completo e illimitato a tutte le funzioni. Inserisci un numer
 
 msgctxt "Languages::text_store_mode_changed_to_mve"
 msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
-msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\\\" target=\"_blank\\\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\\\" target=\\\"_blank\\\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
+msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.plus"
 msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
-msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, ad eccezione delle vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate</a>."
+msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, ad eccezione delle vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
 msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
@@ -574,11 +574,11 @@ msgstr "<strong>La modalità Impresa</strong> è stata attivata. In questa modal
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru"
 msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
-msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\\\" target=\"_blank\\\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\\\" target=\\\"_blank\\\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
+msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
 msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
-msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, tranne che per le vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\\\" target=\"_blank\\\">[prodotto] Ultimate</a>."
+msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, tranne che per le vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
 msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
@@ -818,7 +818,7 @@ msgstr "L'aspetto di questa pagina non può essere configurato con l'editor di t
 
 msgctxt "Languages::error_admin_registers_as_vendor"
 msgid "You can't become a vendor because you are currently signed in as an administrator. Please sign out and resubmit the form. <p><a class=\"ty-btn ty-btn__secondary\" href=\"[sign_out_link]\">Sign out</a></p>"
-msgstr "Non puoi diventare un venditore perché sei attualmente registrato come amministratore. Per favore esci e ripresenta il modulo. <p><a class=\"ty-btn ty-btn__secondary\\\" href=\"\"[sign_out_link]\\\">Sign out</a></p>"
+msgstr "Non puoi diventare un venditore perché sei attualmente registrato come amministratore. Per favore esci e ripresenta il modulo. <p><a class=\"ty-btn ty-btn__secondary\" href=\"\"[sign_out_link]\">Sign out</a></p>"
 
 msgctxt "Languages::logo_for_the_customer_area"
 msgid "Logo for the customer area"
@@ -914,11 +914,11 @@ msgstr "Inviti inviati: [quantità_inviata]"
 
 msgctxt "Languages::vendor_invitations_fail_notification"
 msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
-msgstr "Inviti non inviati: [failed_quantity]<br/><b>[emails_list]</b><br/>Un invito non verrà inviato se è già stato inviato prima a quell'indirizzo email. Ma se nessuno dei tuoi inviti viene inviato, e non hai inviato inviti a quegli indirizzi prima, assicurati che [prodotto] possa inviare e-mail. Se non può, allora il problema è legato a [prodotto] o alla configurazione del server. In questo caso, contatta il tuo amministratore del server, il tuo fornitore di hosting o <a href=\"https://helpdesk.cs-cart.com/\\\" target=\"_blank\\\">il nostro supporto tecnico</a> per indagare."
+msgstr "Inviti non inviati: [failed_quantity]<br/><b>[emails_list]</b><br/>Un invito non verrà inviato se è già stato inviato prima a quell'indirizzo email. Ma se nessuno dei tuoi inviti viene inviato, e non hai inviato inviti a quegli indirizzi prima, assicurati che [prodotto] possa inviare e-mail. Se non può, allora il problema è legato a [prodotto] o alla configurazione del server. In questo caso, contatta il tuo amministratore del server, il tuo fornitore di hosting o <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">il nostro supporto tecnico</a> per indagare."
 
 msgctxt "Languages::vendor_edit_invitation_email_template"
 msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
-msgstr "<a href=\"[url]\\\">Modifica modello email di invito del venditore</a>"
+msgstr "<a href=\"[url]\">Modifica modello email di invito del venditore</a>"
 
 msgctxt "Languages::all_companies"
 msgid "All vendors"
@@ -1058,7 +1058,7 @@ msgstr "Flusso di approvazione del fornitore semplificato"
 
 msgctxt "Languages::update_notification.approve_vendors_notification"
 msgid "<p>Previously, administrators had to check each and every vendor that registered in the marketplace. They manually approved those vendors to make them appear on the storefront and/or grant them access to the admin panel. There was no way for a vendor to start working in the marketplace (at least in the admin panel) immediately after registration.</p><p>Now vendors get access to the admin panel immediately after registration, as long as you allow automatic creation of administrator accounts for them. By default, vendors still require approval before they and their products appear on the storefront. But you can lift that restriction in the settings of the \"Vendor data premoderation\" add-on.</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">View moderation settings</a></p>"
-msgstr "<p>In precedenza, gli amministratori dovevano controllare ogni singolo venditore che si registrava nel mercato. Approvavano manualmente quei venditori per farli apparire sulla vetrina e/o concedere loro l'accesso al pannello di amministrazione. Non c'era modo per un venditore di iniziare a lavorare nel marketplace (almeno nel pannello di amministrazione) subito dopo la registrazione.</p><p>Ora i venditori hanno accesso al pannello di amministrazione subito dopo la registrazione, se si consente la creazione automatica di account di amministratore per loro. Per impostazione predefinita, i venditori richiedono ancora l'approvazione prima che loro e i loro prodotti appaiano sulla vetrina. Ma puoi eliminare questa restrizione nelle impostazioni dell'add-on \"Vendor data premoderation\".</p><p><a href=\"[url]\\\" target=\"_blank\\\" class=\"btn btn-large btn-primary\\\">Visualizza le impostazioni di moderazione</a></p>"
+msgstr "<p>In precedenza, gli amministratori dovevano controllare ogni singolo venditore che si registrava nel mercato. Approvavano manualmente quei venditori per farli apparire sulla vetrina e/o concedere loro l'accesso al pannello di amministrazione. Non c'era modo per un venditore di iniziare a lavorare nel marketplace (almeno nel pannello di amministrazione) subito dopo la registrazione.</p><p>Ora i venditori hanno accesso al pannello di amministrazione subito dopo la registrazione, se si consente la creazione automatica di account di amministratore per loro. Per impostazione predefinita, i venditori richiedono ancora l'approvazione prima che loro e i loro prodotti appaiano sulla vetrina. Ma puoi eliminare questa restrizione nelle impostazioni dell'add-on \"Vendor data premoderation\".</p><p><a href=\"[url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Visualizza le impostazioni di moderazione</a></p>"
 
 msgctxt "Languages::storefront_all_common_categories"
 msgid "Storefront: All (Common categories)"
@@ -1114,7 +1114,7 @@ msgstr "Nuovo pannello del venditore: moderno e più facile"
 
 msgctxt "Languages::new_vendor_panel.upgrade_notification"
 msgid "<p>Multi-Vendor 4.14.1 comes with a new vendor panel. It features a sidebar, has much fewer menus, and generally looks much lighter. To top it off, you can tailor the colors of that vendor panel to your brand, and decide which product fields and tabs vendors will see.</p><p>Only you decide when to move to the new vendor panel. It is part of the add-on called \"Vendor panel configurator\". Once you install the add-on, vendors will get the new experience, and you'll see the add-on settings that will allow you to configure the new vendor panel.</p><p><a href=\"[configure_vendor_panel_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Configure vendor panel</a></p>"
-msgstr "<p>Multi-Vendor 4.14.1 è dotato di un nuovo pannello venditore. È dotato di una barra laterale, ha molti meno menu e in generale ha un aspetto molto più leggero. Per finire, puoi adattare i colori del pannello del venditore al tuo marchio e decidere quali campi prodotto e schede i venditori vedranno.</p><p>Solo tu puoi decidere quando passare al nuovo pannello del venditore. Fa parte dell'add-on chiamato \"Vendor panel configurator\". Una volta installato il componente aggiuntivo, i venditori avranno la nuova esperienza, e vedrai le impostazioni del componente aggiuntivo che ti permetteranno di configurare il nuovo pannello venditore.</p><p><a href=\"[configure_vendor_panel_url]\\\" target=\\\"_blank\\\" class=\"btn btn-large btn-primary\\\">Configura pannello venditore</a></p>"
+msgstr "<p>Multi-Vendor 4.14.1 è dotato di un nuovo pannello venditore. È dotato di una barra laterale, ha molti meno menu e in generale ha un aspetto molto più leggero. Per finire, puoi adattare i colori del pannello del venditore al tuo marchio e decidere quali campi prodotto e schede i venditori vedranno.</p><p>Solo tu puoi decidere quando passare al nuovo pannello del venditore. Fa parte dell'add-on chiamato \"Vendor panel configurator\". Una volta installato il componente aggiuntivo, i venditori avranno la nuova esperienza, e vedrai le impostazioni del componente aggiuntivo che ti permetteranno di configurare il nuovo pannello venditore.</p><p><a href=\"[configure_vendor_panel_url]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Configura pannello venditore</a></p>"
 
 msgctxt "Languages::vendor_emails_added.upgrade_notification_title"
 msgid "New email notifications for bigger vendors"
@@ -1122,7 +1122,7 @@ msgstr "Nuove notifiche e-mail per i fornitori più grandi"
 
 msgctxt "Languages::vendor_emails_added.upgrade_notification_text"
 msgid "When your vendors are companies, they have multiple administrators. Some of the vendor's personnel might work with orders without accessing the vendor panel of your marketplace. Meanwhile, the main admin of the vendor might not even need to know about every order. That's why you can now send notifications to vendors' emails.<ul><li>Create profile fields with the \"Email\" type in <b>Administration → Profile fields → Vendor information</b>. For example, you can create a dedicated field for an email address that vendors will use for order notifications.</li><li>Select the emails that will receive this or that notification in <b>Administration → Notifications → Vendor notifications</b>. There is a new type of receiver called <b>Vendor emails</b>.</li><li>Once vendors enter their email addresses, they'll start receiving relevant notifications.</li></ul><br><p align=\"right\"><a href=\"[email_fields_url]\" target=\"_blank\" class=\"btn\" style=\"margin-right: 3px\">Create fields for emails</a><a href=\"[notifications_url]\" target=\"_blank\" class=\"btn btn-primary\">Configure notifications</a></p>"
-msgstr "Quando i tuoi venditori sono aziende, hanno più amministratori. Alcuni del personale del venditore potrebbero lavorare con gli ordini senza accedere al pannello venditore del tuo marketplace. Nel frattempo, l'amministratore principale del venditore potrebbe non aver bisogno di sapere di ogni ordine. Ecco perché ora puoi inviare notifiche alle email dei venditori.<ul><li>Crea campi di profilo con il tipo \"Email\" in <b>Amministrazione → Campi profilo → Informazioni venditore</b>. Per esempio, puoi creare un campo dedicato ad un indirizzo email che i venditori useranno per le notifiche degli ordini.</li><li>Seleziona le email che riceveranno questa o quella notifica in <b>Amministrazione → Notifiche → Notifiche del venditore</b>. C'è un nuovo tipo di destinatario chiamato <b>Email fornitori</b>.</li><li>Una volta che i fornitori inseriscono i loro indirizzi email, inizieranno a ricevere le notifiche pertinenti.</li></ul><br><p align=\"right\"><a href=\"[email_fields_url]\\\" target=\"_blank\\\" class=\"btn\\\" style=\"margin-right: 3px\">Crea campi per le email</a><a href=\"[notifications_url]\\\" target=\"_blank\\\" class=\"btn btn-primary\\\">Configura notifiche</a></p>"
+msgstr "Quando i tuoi venditori sono aziende, hanno più amministratori. Alcuni del personale del venditore potrebbero lavorare con gli ordini senza accedere al pannello venditore del tuo marketplace. Nel frattempo, l'amministratore principale del venditore potrebbe non aver bisogno di sapere di ogni ordine. Ecco perché ora puoi inviare notifiche alle email dei venditori.<ul><li>Crea campi di profilo con il tipo \"Email\" in <b>Amministrazione → Campi profilo → Informazioni venditore</b>. Per esempio, puoi creare un campo dedicato ad un indirizzo email che i venditori useranno per le notifiche degli ordini.</li><li>Seleziona le email che riceveranno questa o quella notifica in <b>Amministrazione → Notifiche → Notifiche del venditore</b>. C'è un nuovo tipo di destinatario chiamato <b>Email fornitori</b>.</li><li>Una volta che i fornitori inseriscono i loro indirizzi email, inizieranno a ricevere le notifiche pertinenti.</li></ul><br><p align=\"right\"><a href=\"[email_fields_url]\" target=\"_blank\" class=\"btn\" style=\"margin-right: 3px\">Crea campi per le email</a><a href=\"[notifications_url]\" target=\"_blank\" class=\"btn btn-primary\">Configura notifiche</a></p>"
 
 msgctxt "Languages::upgrade_notice.order_fulfillment_can_use_stores_now.title"
 msgid "Fulfillment by marketplace now works with \"Pickup from store\" shipping method"
@@ -1130,5 +1130,5 @@ msgstr "Fulfillment by marketplace ora funziona con il metodo di spedizione \"Pi
 
 msgctxt "Languages::upgrade_notice.order_fulfillment_can_use_stores_now.message"
 msgid "<p>\"Order fulfillment by marketplace\" is the add-on that allows the marketplace to ship products on behalf of vendors and collect money for it. Starting with version 4.14.1, the add-on also supports the scenario when the marketplace collects all the products, and the customer picks up the order from one place.</p><p>Now, if you use the \"Stores and pickup points\" add-on, you can create pickup points that belong to the marketplace under \"Administration → Stores & pickup points\". Note that if a \"Pickup from store\" shipping method belongs to the marketplace, it will only use the pickup points that belong to the marketplace.</p>"
-msgstr "<p>\"Order fulfillment by marketplace\" è l'add-on che permette al marketplace di spedire i prodotti per conto dei venditori e incassare i soldi per questo. A partire dalla versione 4.14.1, l'add-on supporta anche lo scenario in cui il marketplace raccoglie tutti i prodotti, e il cliente ritira l'ordine da un posto.</p><p>Ora, se usi l'add-on \"Negozi e punti di ritiro\", puoi creare punti di ritiro che appartengono al marketplace sotto \\\"Amministrazione → Negozi"
+msgstr "<p>\"Order fulfillment by marketplace\" è l'add-on che permette al marketplace di spedire i prodotti per conto dei venditori e incassare i soldi per questo. A partire dalla versione 4.14.1, l'add-on supporta anche lo scenario in cui il marketplace raccoglie tutti i prodotti, e il cliente ritira l'ordine da un posto.</p><p>Ora, se usi l'add-on \"Negozi e punti di ritiro\", puoi creare punti di ritiro che appartengono al marketplace sotto \"Amministrazione → Negozi"
 
