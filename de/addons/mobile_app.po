@@ -282,7 +282,7 @@ msgstr "Aktualisieren von Texten unter Verwendung vorhandener Locale-Dateien"
 
 msgctxt "Languages::mobile_app.invalid_locale_file"
 msgid "Locale file selected for the \"[language]\" language is not a valid JSON file"
-msgstr "Die für die Sprache \"\"[Sprache]\" ausgewählte Gebietsschemadatei ist keine gültige JSON-Datei"
+msgstr "Die für die Sprache \"[language]\" ausgewählte Gebietsschemadatei ist keine gültige JSON-Datei"
 
 msgctxt "Languages::mobile_app.app_translation_updated.item"
 msgid "[language]: [n] texts|[language]: [n] texts"

@@ -210,7 +210,7 @@ msgstr "Konnte keine Rückgabeanfrage finden. Die Vorschau funktioniert nur mit 
 
 msgctxt "Languages::event.rma.status_changed.name"
 msgid "Return request status changed to [status]"
-msgstr "Status der Rückgabeanforderung auf [Status] geändert"
+msgstr "Status der Rückgabeanforderung auf [status] geändert"
 
 msgctxt "Languages::rma.choose_change_return_status"
 msgid "What to do with the order"

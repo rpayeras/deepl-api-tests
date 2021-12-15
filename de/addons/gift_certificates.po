@@ -290,7 +290,7 @@ msgstr "Gutschein Bestellformular"
 
 msgctxt "Languages::gift_certificates.event.gift_certificate.status_changed.name"
 msgid "Gift certificate status changed to [status]"
-msgstr "Der Status des Geschenkgutscheins wurde auf [Status] geändert."
+msgstr "Der Status des Geschenkgutscheins wurde auf [status] geändert."
 
 msgctxt "Languages::gift_certificates.event.gift_certificate.updated.name"
 msgid "Gift certificate updated"

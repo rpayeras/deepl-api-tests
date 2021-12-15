@@ -106,7 +106,7 @@ msgstr "Eine Frage stellen"
 
 msgctxt "Languages::vendor_communication.contact_vendor_name"
 msgid "Contact [vendor_name]"
-msgstr "Kontakt [Verkäufername]"
+msgstr "Kontakt [vendor_name]"
 
 msgctxt "Languages::vendor_communication.created_at"
 msgid "Created on"
@@ -114,11 +114,11 @@ msgstr "Erstellt am"
 
 msgctxt "Languages::vendor_communication.new_thread_created"
 msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>The vendor's reply will be sent to the email address of your account. To view your message history, please <a href=\"[thread_url]\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
-msgstr "Ihre Nachricht wurde an <b>[Verkäufername]</b> gesendet.<br/><br/>Die Antwort des Verkäufers wird an die E-Mail-Adresse Ihres Kontos gesendet. Um Ihre Nachrichtenhistorie einzusehen, gehen Sie bitte <a href=\"[thread_url]\">zur Nachrichtenzentrale</a>, die sich im Abschnitt \"Nachrichten\" des Menüs \"Mein Konto\" befindet."
+msgstr "Ihre Nachricht wurde an <b>[vendor_name]</b> gesendet.<br/><br/>Die Antwort des Verkäufers wird an die E-Mail-Adresse Ihres Kontos gesendet. Um Ihre Nachrichtenhistorie einzusehen, gehen Sie bitte <a href=\"[thread_url]\">zur Nachrichtenzentrale</a>, die sich im Abschnitt \"Nachrichten\" des Menüs \"Mein Konto\" befindet."
 
 msgctxt "Languages::vendor_communication.message_sent"
 msgid "Your message has been sent to <b>[vendor_name]</b>.<br/><br/>We'll notify you about a reply. To view your message history, please <a href=\"[thread_url]\" target=\"_blank\">go to the Message Center</a> located in the \"Messages\" section of the \"My account\" menu."
-msgstr "Ihre Nachricht wurde an <b>[Verkäufername]</b> gesendet.<br/><br/>Wir werden Sie über eine Antwort benachrichtigen. Um Ihre Nachrichtenhistorie einzusehen, gehen Sie bitte <a href=\"[thread_url]\" target=\"_blank\">zur Nachrichtenzentrale</a>, die sich im Abschnitt \"Nachrichten\" des Menüs \"Mein Konto\" befindet."
+msgstr "Ihre Nachricht wurde an <b>[vendor_name]</b> gesendet.<br/><br/>Wir werden Sie über eine Antwort benachrichtigen. Um Ihre Nachrichtenhistorie einzusehen, gehen Sie bitte <a href=\"[thread_url]\" target=\"_blank\">zur Nachrichtenzentrale</a>, die sich im Abschnitt \"Nachrichten\" des Menüs \"Mein Konto\" befindet."
 
 msgctxt "Languages::vendor_communication.cannot_update_thread"
 msgid "Cannot update thread"

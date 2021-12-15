@@ -86,7 +86,7 @@ msgstr "Sie haben Produkte, die Ihre Zustimmung erfordern. Bitte <a href=\"[link
 
 msgctxt "Languages::products_approval_status_changed"
 msgid "Your product(s) have been [status]"
-msgstr "Ihr(e) Produkt(e) wurde(n) [Status]"
+msgstr "Ihr(e) Produkt(e) wurde(n) [status]"
 
 msgctxt "Languages::approval"
 msgid "Approval"
@@ -246,7 +246,7 @@ msgstr "Sie haben [n] Produkte, die Ihre Zustimmung erfordern|Sie haben [n] Prod
 
 msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
 msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
-msgstr "Dieses Produkt ist seit [seit] für Ihre Genehmigung anhängig. Klicken Sie hier, um dieses Produkt zu sehen.|Diese Produkte sind für Ihre Genehmigung anhängig seit [seit]. Klicken Sie hier, um diese Produkte zu sehen."
+msgstr "Dieses Produkt ist seit [since] für Ihre Genehmigung anhängig. Klicken Sie hier, um dieses Produkt zu sehen.|Diese Produkte sind für Ihre Genehmigung anhängig seit [since]. Klicken Sie hier, um diese Produkte zu sehen."
 
 msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
 msgid "Your product has been approved|Your products have been approved"
