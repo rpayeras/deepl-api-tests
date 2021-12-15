@@ -74,7 +74,7 @@ msgstr "giorno/i"
 
 msgctxt "Languages::vendor_debt_payout.pending_payout_message"
 msgid "You need to pay the fee of [fee_amount] for using the [plan_name] plan. Your current account balance is [current_balance]. If the fee isn't paid until [overdue_date], you won't be able to work with the administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
-msgstr "Devi pagare la tassa di [importo_della tassa] per usare il piano [nome_piano]. Il tuo attuale saldo del conto è [saldo_attuale]. Se la tassa non viene pagata fino a [data_ritardo], non sarai in grado di lavorare con il pannello di amministrazione fino a quando non <a href=\"[pay_url]\" target=\"_blank\">pagherai tutte le tue tasse del mercato</a>."
+msgstr "Devi pagare la tassa di [fee_amount] per usare il piano [plan_name]. Il tuo attuale saldo del conto è [current_balance]. Se la tassa non viene pagata fino a [overdue_date], non sarai in grado di lavorare con il pannello di amministrazione fino a quando non <a href=\"[pay_url]\" target=\"_blank\">pagherai tutte le tue tasse del mercato</a>."
 
 msgctxt "Languages::vendor_debt_payout.debt_near_limit_message"
 msgid "Your account balance is currently [current_balance]. If it reaches [minimal_balance], you won't be able to use your administration panel until you <a href=\"[pay_url]\" target=\"_blank\">pay all your marketplace fees</a>."
@@ -98,7 +98,7 @@ msgstr "Periodo di grazia per ricaricare il saldo"
 
 msgctxt "Languages::vendor_debt_payout.vendor_status_changed.reason"
 msgid "The debt of [amount] that hasn't been paid until [date]."
-msgstr "Il debito di [importo] che non è stato pagato fino a [data]."
+msgstr "Il debito di [amount] che non è stato pagato fino a [data]."
 
 msgctxt "Languages::vendor_debt_payout.lowest_allowed_balance_info_text"
 msgid "To make working with suspended vendors easier, please check the settings of the <a href=\"[link]\">Vendor-to-admin payments</a> add-on."
@@ -174,19 +174,19 @@ msgstr "Spiacente, non è stato possibile procedere al pagamento. La somma speci
 
 msgctxt "Languages::vendor_debt_payout.suspend_debt_notification"
 msgid "Your account is suspended. To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
-msgstr "Il tuo account è sospeso. Per revocare la sospensione, deposita almeno [importo] per ricaricare il saldo fino a [vendor_plans_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Ricarica saldo</a>."
+msgstr "Il tuo account è sospeso. Per revocare la sospensione, deposita almeno [amount] per ricaricare il saldo fino a [vendor_plans_lowers_allowed_balance]. <a target=\"_blank\" href=\"[link]\">Ricarica saldo</a>."
 
 msgctxt "Languages::vendor_debt_payout.warning_debt_notification"
 msgid "Your account might get suspended soon. Please deposit at least [amount] until [date] to avoid suspension. <a target=\"_blank\" href=\"[link]\">Refill balance</a>."
-msgstr "Il tuo conto potrebbe essere sospeso presto. Per favore deposita almeno [importo] fino a [data] per evitare la sospensione. <a target=\"_blank\" href=\"[link]\">Ricarica saldo</a>."
+msgstr "Il tuo conto potrebbe essere sospeso presto. Per favore deposita almeno [amount] fino a [data] per evitare la sospensione. <a target=\"_blank\" href=\"[link]\">Ricarica saldo</a>."
 
 msgctxt "Languages::vendor_debt_payout.suspend_debt_alert"
 msgid "<p>Your account has been suspended automatically.</p><p>Reason: your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount]. Once the payment is processed, the suspension will be lifted automatically.</p>"
-msgstr "<p>Il tuo conto è stato sospeso automaticamente.</p><p>Ragione: il tuo saldo attuale è [saldo], che è inferiore al saldo minimo consentito di [lowers_allowed_balance].</p><p>Per favore, deposita almeno [importo]. Una volta che il pagamento è processato, la sospensione sarà rimossa automaticamente.</p>"
+msgstr "<p>Il tuo conto è stato sospeso automaticamente.</p><p>Ragione: il tuo saldo attuale è [saldo], che è inferiore al saldo minimo consentito di [lowers_allowed_balance].</p><p>Per favore, deposita almeno [amount]. Una volta che il pagamento è processato, la sospensione sarà rimossa automaticamente.</p>"
 
 msgctxt "Languages::vendor_debt_payout.warning_debt_alert"
 msgid "<p>Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance].</p><p>Please deposit at least [amount] until [date]. Otherwise your account might get suspended."
-msgstr "<p>Il tuo saldo attuale è [saldo], che è inferiore al saldo minimo consentito di [lowers_allowed_balance].</p><p>Per favore deposita almeno [importo] fino a [data]. Altrimenti il tuo conto potrebbe essere sospeso."
+msgstr "<p>Il tuo saldo attuale è [saldo], che è inferiore al saldo minimo consentito di [lowers_allowed_balance].</p><p>Per favore deposita almeno [amount] fino a [data]. Altrimenti il tuo conto potrebbe essere sospeso."
 
 msgctxt "Languages::vendor_debt_payout.dashboard_suspended_vendors"
 msgid "Suspended vendors"
@@ -206,11 +206,11 @@ msgstr "Registrazione del fornitore: Debito e periodo di grazia"
 
 msgctxt "Languages::vendor_debt_payout.negative_balance_reached.message"
 msgid "Please deposit at least [amount] until [date] to avoid suspension."
-msgstr "Si prega di depositare almeno [importo] fino a [data] per evitare la sospensione."
+msgstr "Si prega di depositare almeno [amount] fino a [data] per evitare la sospensione."
 
 msgctxt "Languages::vendor_debt_payout.suspended_status_reached.message"
 msgid "To lift the suspension, please deposit at least [amount] to refill the balance up to [vendor_plan_lowers_allowed_balance]."
-msgstr "Per revocare la sospensione, deposita almeno [importo] per ricaricare il saldo fino a [vendor_plane_lowers_allowed_balance]."
+msgstr "Per revocare la sospensione, deposita almeno [amount] per ricaricare il saldo fino a [vendor_plane_lowers_allowed_balance]."
 
 msgctxt "Languages::email_template.vendor_debt_payout_vendor_days_before_suspended"
 msgid "Vendor-to-admin payments notifications"
@@ -270,7 +270,7 @@ msgstr "Digesto settimanale dei debitori"
 
 msgctxt "Languages::vendor_debt_payout.vendor_status_changed.subject"
 msgid "[vendor_name]: Status changed to [status]"
-msgstr "[Nome_del_fornitore]: Stato cambiato in [status]"
+msgstr "[vendor_name]: Stato cambiato in [status]"
 
 msgctxt "Languages::vendor_debt_payout.vendor_status_changed.message"
 msgid "The status of vendor [vendor_name] was changed to [status]."
@@ -290,7 +290,7 @@ msgstr "Informazioni sulla prossima sospensione"
 
 msgctxt "Languages::vendor_debt_payout.reason_block"
 msgid "Your current balance is [balance], which is below the minimum allowed balance of [lowers_allowed_balance]. Please deposit at least [amount] until [date] to avoid suspension. You can refill the balance in your <a href=\"[link]\">vendor panel</a>."
-msgstr "Il tuo saldo attuale è [saldo], che è al di sotto del saldo minimo consentito di [lowers_allowed_balance]. Per favore deposita almeno [importo] fino a [data] per evitare la sospensione. Puoi ricaricare il saldo nel tuo <a href=\"[link]\">pannello del venditore</a>."
+msgstr "Il tuo saldo attuale è [saldo], che è al di sotto del saldo minimo consentito di [lowers_allowed_balance]. Per favore deposita almeno [amount] fino a [data] per evitare la sospensione. Puoi ricaricare il saldo nel tuo <a href=\"[link]\">pannello del venditore</a>."
 
 msgctxt "Languages::vendor_debt_payout.old_addon_name"
 msgid "Vendor debt payout"

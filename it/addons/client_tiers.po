@@ -66,15 +66,15 @@ msgstr "[username] ha speso l'importo [total] nel periodo indicato e si è spost
 
 msgctxt "Languages::client_tiers.client_fail_set_new_tier"
 msgid "Couldn't assign user group [new_group] to customer with id [user_id]. Customer spent [total] in the reporting period, which is more than the required spendings for this user group."
-msgstr "Impossibile assegnare il gruppo di utenti [new_group] al cliente con id [user_id]. Il cliente ha speso [totale] nel periodo di riferimento, che è più delle spese richieste per questo gruppo di utenti."
+msgstr "Impossibile assegnare il gruppo di utenti [new_group] al cliente con id [user_id]. Il cliente ha speso [total] nel periodo di riferimento, che è più delle spese richieste per questo gruppo di utenti."
 
 msgctxt "Languages::client_tiers.client_fail_unset_old_tier"
 msgid "Couldn't remove user group [old_group] from customer with id [user_id]. With [total] spent in the reporting period, customer shouldn't be a part of this user group."
-msgstr "Impossibile rimuovere il gruppo di utenti [old_group] dal cliente con id [user_id]. Con [totale] speso nel periodo di riferimento, il cliente non dovrebbe far parte di questo gruppo di utenti."
+msgstr "Impossibile rimuovere il gruppo di utenti [old_group] dal cliente con id [user_id]. Con [total] speso nel periodo di riferimento, il cliente non dovrebbe far parte di questo gruppo di utenti."
 
 msgctxt "Languages::client_tiers.client_success_unset_tier"
 msgid "Customer [username] was successfully removed from [old_group] due to [total] spent in reporting period."
-msgstr "Il cliente [nome utente] è stato rimosso con successo da [old_group] a causa del [totale] speso nel periodo di riferimento."
+msgstr "Il cliente [username] è stato rimosso con successo da [old_group] a causa del [total] speso nel periodo di riferimento."
 
 msgctxt "Languages::log_type_client_tiers"
 msgid "Client Tiers"

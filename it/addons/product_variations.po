@@ -78,7 +78,7 @@ msgstr "Variazioni"
 
 msgctxt "Languages::product_variations.variation_of_product"
 msgid "Variation of catalog item <a href=\"[url]\">[product]</a>"
-msgstr "Variazione dell'articolo del catalogo <a href=\"[url]\">[prodotto]</a>"
+msgstr "Variazione dell'articolo del catalogo <a href=\"[url]\">[product]</a>"
 
 msgctxt "Languages::product_variations.group_code"
 msgid "Variation group"
@@ -282,7 +282,7 @@ msgstr "Mostra il codice del prodotto"
 
 msgctxt "Languages::product_variations.exim.result_notice"
 msgid "Data is imported successfully.<br />New products - <b>[new]</b>;<br />Updated products - <b>[exist]</b>;<br />Skipped products - <b>[skipped]</b>;<br />Total - <b>[total]</b>;<br />Created variations - <b>[variation_created]</b>;<br />Updated variations - <b>[variation_updated]</b>;<br />Disbanded variations - <b>[variation_removed]</b>."
-msgstr "I dati sono importati con successo.<br />Nuovi prodotti - <b>[nuovo]</b>;<br /> Prodotti aggiornati - <b>[esistono]</b>;<br />Prodotti saltati - <b>[saltati]</b>;<br />Totale - <b>[totale]</b>;<br />Variazioni create - <b>[variation_created]</b>;<br />Variazioni aggiornate - <b>[variation_updated]</b>;<br />Variazioni eliminate - <b>[variation_removed]</b>."
+msgstr "I dati sono importati con successo.<br />Nuovi prodotti - <b>[nuovo]</b>;<br /> Prodotti aggiornati - <b>[esistono]</b>;<br />Prodotti saltati - <b>[saltati]</b>;<br />Totale - <b>[total]</b>;<br />Variazioni create - <b>[variation_created]</b>;<br />Variazioni aggiornate - <b>[variation_updated]</b>;<br />Variazioni eliminate - <b>[variation_removed]</b>."
 
 msgctxt "Languages::variation_group_id"
 msgid "Variation group ID"
@@ -302,7 +302,7 @@ msgstr "ID del sottogruppo di variazione"
 
 msgctxt "Languages::product_variations.feature_used_by_variation_group.tooltip"
 msgid "This feature is used by variation group [code]. To choose a different value of this feature for a product, switch to the \"Variations\" tab of the product editing page. New values can be added on the feature editing page."
-msgstr "Questa caratteristica è utilizzata dal gruppo di variazione [codice]. Per scegliere un valore diverso di questa caratteristica per un prodotto, passa alla scheda \"Variazioni\" della pagina di modifica del prodotto. Nuovi valori possono essere aggiunti nella pagina di modifica della caratteristica."
+msgstr "Questa caratteristica è utilizzata dal gruppo di variazione [code]. Per scegliere un valore diverso di questa caratteristica per un prodotto, passa alla scheda \"Variazioni\" della pagina di modifica del prodotto. Nuovi valori possono essere aggiunti nella pagina di modifica della caratteristica."
 
 msgctxt "Languages::product_variations.variations_naming_strategy.key_value"
 msgid "Color: Red, Size: Small"

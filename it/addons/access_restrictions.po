@@ -98,7 +98,7 @@ msgstr "Non sei abilitato ad accedere a quest'area"
 
 msgctxt "Languages::text_ip_blocked_failed_login"
 msgid "The IP was blocked after [number] unsuccessful logins"
-msgstr "L'IP è stato bloccato dopo [numero] accessi non riusciti"
+msgstr "L'IP è stato bloccato dopo [number] accessi non riusciti"
 
 msgctxt "Languages::text_ip_is_blocked"
 msgid "Your IP address is blocked."

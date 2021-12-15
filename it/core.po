@@ -1710,7 +1710,7 @@ msgstr "Non potete utilizzare un valore percentuale per il prezzo base."
 
 msgctxt "Languages::cant_upload_file"
 msgid "Couldn't upload the file. The problem isn't necessarily on the [product] end. If it occurs regularly, please contact your server administrator or our technical support."
-msgstr "Impossibile caricare il file. Il problema non è necessariamente sul [prodotto] fine. Se si verifica regolarmente, contatta l'amministratore del tuo server o il nostro supporto tecnico."
+msgstr "Impossibile caricare il file. Il problema non è necessariamente sul [product] fine. Se si verifica regolarmente, contatta l'amministratore del tuo server o il nostro supporto tecnico."
 
 msgctxt "Languages::capture"
 msgid "Capture"
@@ -6070,7 +6070,7 @@ msgstr "Maggiori informazioni"
 
 msgctxt "Languages::more_link"
 msgid "[more]"
-msgstr "[altro]"
+msgstr "[more]"
 
 msgctxt "Languages::more_sign_in_options"
 msgid "Back to more sign in options"
@@ -6398,7 +6398,7 @@ msgstr "Avviso"
 
 msgctxt "Languages::notice_too_many_decimals"
 msgid "You have specified [DECIMALS] decimal places for [CURRENCY]. The maximum number of supported decimal places is 2. Further values will be displayed as zeros."
-msgstr "Avete specificato [DECIMALI] posizioni decimali per [VALUTA]. Il numero massimo di posizioni decimali sopportati è 2. Valori più lunghi verranno visualizzati come zeri."
+msgstr "Avete specificato [DECIMALI] posizioni decimali per [CURRENCY]. Il numero massimo di posizioni decimali sopportati è 2. Valori più lunghi verranno visualizzati come zeri."
 
 msgctxt "Languages::notice_undeliverable_products_removed"
 msgid "Undeliverable products have been removed from your cart. You may proceed with the purchase."
@@ -7743,7 +7743,7 @@ msgstr "I prodotti sono stati aggiunti al vostro carrello"
 
 msgctxt "Languages::products_number_added_to_cart"
 msgid "<b>[number]</b> products were added to your cart"
-msgstr "<b>[numero]</b> prodotti aggiunti al tuo carrello"
+msgstr "<b>[number]</b> prodotti aggiunti al tuo carrello"
 
 msgctxt "Languages::products_amount"
 msgid "Product quantity"
@@ -7811,7 +7811,7 @@ msgstr "Il prodotto è stato aggiunto al vostro carrello"
 
 msgctxt "Languages::product_name_added_to_cart"
 msgid "<b>[product]</b> was added to your cart"
-msgstr "<b>[prodotto]</b> è stato aggiunto al tuo carrello"
+msgstr "<b>[product]</b> è stato aggiunto al tuo carrello"
 
 msgctxt "Languages::product_added_to_cl"
 msgid "The product was added to your Comparison list"
@@ -9051,7 +9051,7 @@ msgstr "Seleziona tabelle"
 
 msgctxt "Languages::select_storefront"
 msgid "Select [store] storefront"
-msgstr "Seleziona la vetrina [negozio]"
+msgstr "Seleziona la vetrina [store]"
 
 msgctxt "Languages::semicolon"
 msgid "Semicolon"
@@ -9387,7 +9387,7 @@ msgstr "L'inizio della gamma non può essere più alto della fine."
 
 msgctxt "Languages::shipping_rate_absolute"
 msgid "Absolute ([currency])"
-msgstr "Assoluto ([valuta])"
+msgstr "Assoluto ([currency])"
 
 msgctxt "Languages::shipping_rate_percentage"
 msgid "Cart percentage (%)"
@@ -16379,7 +16379,7 @@ msgstr "Realex alla mappa di conversione di CS-Cart ordine stato"
 
 msgctxt "Languages::payments.globalpayments.text_status_map"
 msgid "Global Payments to [product] order status conversion map"
-msgstr "Mappa di conversione dello stato dell'ordine da pagamenti globali a [prodotto]"
+msgstr "Mappa di conversione dello stato dell'ordine da pagamenti globali a [product]"
 
 msgctxt "Languages::payments.realex.subaccount"
 msgid "Subaccount"
@@ -16816,7 +16816,7 @@ msgstr "Alcuni dei tuoi prodotti attualmente non hanno una categoria. Potrebbe e
 
 msgctxt "Languages::deleting_required_category_notification_text"
 msgid "Category \"[category]\" is required and can't be deleted."
-msgstr "La categoria \"[categoria]\" è richiesta e non può essere cancellata."
+msgstr "La categoria \"[category]\" è richiesta e non può essere cancellata."
 
 msgctxt "Languages::free_shipping_upgrade_notification_title"
 msgid "Free shipping changes"
@@ -16940,19 +16940,19 @@ msgstr "Terze parti"
 
 msgctxt "Languages::requires_upgrade"
 msgid "Requires [product] upgrade"
-msgstr "Richiede l'aggiornamento di [prodotto]"
+msgstr "Richiede l'aggiornamento di [product]"
 
 msgctxt "Languages::new_add_on_is_not_compatible_with_your_product"
 msgid "The new add-on is not compatible with your current version of [product]. To upgrade the add-on to the latest version, please upgrade [product] to version [version]."
-msgstr "Il nuovo componente aggiuntivo non è compatibile con la tua attuale versione di [prodotto]. Per aggiornare il componente aggiuntivo all'ultima versione, aggiorna [prodotto] alla versione [versione]."
+msgstr "Il nuovo componente aggiuntivo non è compatibile con la tua attuale versione di [product]. Per aggiornare il componente aggiuntivo all'ultima versione, aggiorna [product] alla versione [version]."
 
 msgctxt "Languages::upgrade_and_update_addon"
 msgid "Upgrade [product] and upgrade the add-on"
-msgstr "Aggiorna [prodotto] e aggiorna il componente aggiuntivo"
+msgstr "Aggiorna [product] e aggiorna il componente aggiuntivo"
 
 msgctxt "Languages::addons.upgrade_to_version"
 msgid "Upgrade to [version]"
-msgstr "Aggiornamento a [versione]"
+msgstr "Aggiornamento a [version]"
 
 msgctxt "Languages::addons.search_description"
 msgid "Search by add-on name, description, developer, and add-on ID."
@@ -17668,7 +17668,7 @@ msgstr "<p><b>UPS Canada: Expedited SM</b> e <b>UPS polacco: oggi Intercity</b> 
 
 msgctxt "Languages::warning_default_language_sharing_removed"
 msgid "The default language defined in settings has been removed for the <b>[company]</b> storefront. Please update the Frontend default language value on the following page: <a href=\"[link]\">Settings :: Appearance</a>"
-msgstr "La lingua predefinita definita nelle impostazioni è stata rimossa per lo storefront <b>[azienda]</b>. Aggiorna il valore della lingua predefinita del frontend nella pagina seguente: <a href=\"\"[link]\">Impostazioni :: Aspetto</a>"
+msgstr "La lingua predefinita definita nelle impostazioni è stata rimossa per lo storefront <b>[company]</b>. Aggiorna il valore della lingua predefinita del frontend nella pagina seguente: <a href=\"\"[link]\">Impostazioni :: Aspetto</a>"
 
 msgctxt "Languages::warning_default_currency_absent"
 msgid "Could not assign default currency for the <b>[storefront]</b> storefront. Please update the default currency value on the following page: <a href=\"[link]\">Administration :: Currencies</a>"
@@ -18132,7 +18132,7 @@ msgstr "<p>Puo utilizzare alcune di queste licenze: <a href=\"[standard_license_
 
 msgctxt "Languages::product_state_description.ult"
 msgid "<p>You can use the software without time restrictions now. Please note that some advanced features are available only in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
-msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate.</a></p><br>"
+msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.ult.ultimate"
 msgid "<p>You can use the software without time restrictions now.</p><br>"
@@ -18148,7 +18148,7 @@ msgstr "<p>Lei puo utilizzare una di queste licenze:<a href=\"[standard_license_
 
 msgctxt "Languages::product_state_description.ult.ru"
 msgid "<p>You can use the software without time restrictions now. Please note that some advanced features are available only in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
-msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate.</a></p><br>"
+msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.ult.ru.ultimate"
 msgid "<p>You can use the software without time restrictions now.</p><br>"
@@ -18160,11 +18160,11 @@ msgstr "<p>Puoi usare il software senza restrizioni di tempo ora.</p><br>"
 
 msgctxt "Languages::product_state_description.ult.b2b.new"
 msgid "<p>You can use one of these licenses: <a href=\"[standard_license_url]\" target=\"_blank\">[product]</a> or <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>. Both licenses allow you to use [product] without time restrictions.</p><br>"
-msgstr "<p>Puoi usare una di queste licenze: <a href=\"\"[standard_license_url]\"target=\"_blank\">[prodotto]</a> o <a href=\"[ultimate_license_url]\"target=\"_blank\">[prodotto] Ultimate</a>. Entrambe le licenze ti permettono di usare [prodotto] senza restrizioni di tempo.</p><br>"
+msgstr "<p>Puoi usare una di queste licenze: <a href=\"\"[standard_license_url]\"target=\"_blank\">[product]</a> o <a href=\"[ultimate_license_url]\"target=\"_blank\">[product] Ultimate</a>. Entrambe le licenze ti permettono di usare [product] senza restrizioni di tempo.</p><br>"
 
 msgctxt "Languages::product_state_description.ult.b2b"
 msgid "<p>You can use the software without time restrictions now. Please note that some advanced features are available only in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
-msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate.</a></p><br>"
+msgstr "<p>Puoi usare il software senza restrizioni di tempo ora. Si prega di notare che alcune funzioni avanzate sono disponibili solo in <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.ult.b2b.ultimate"
 msgid "<p>You can use the software without time restrictions now.</p><br>"
@@ -18176,43 +18176,43 @@ msgstr "<p>Puoi usare il software senza restrizioni di tempo ora.</p><br>"
 
 msgctxt "Languages::text_store_mode_changed_to_ult"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.ultimate"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.enterprise"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.ru"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.ru.ultimate"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.ru.enterprise"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.b2b"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.b2b.ultimate"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::text_store_mode_changed_to_ult.b2b.enterprise"
 msgid "Your store now uses an active license of [product]."
-msgstr "Il tuo negozio ora usa una licenza attiva di [prodotto]."
+msgstr "Il tuo negozio ora usa una licenza attiva di [product]."
 
 msgctxt "Languages::ultimate_license"
 msgid "[product] Ultimate"
-msgstr "[Prodotto] Ultimo"
+msgstr "[product] Ultimo"
 
 msgctxt "Languages::ultimate_license_required"
 msgid "[product] Ultimate is required for this"
@@ -18220,95 +18220,95 @@ msgstr "[L'Ultimate è richiesto per questo"
 
 msgctxt "Languages::ultimate_or_storefront_license_required"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.new"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.ultimate"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.b2b.new"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.b2b"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.b2b.ultimate"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.ru.new"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.ru"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::ultimate_or_storefront_license_required.ult.ru.ultimate"
 msgid "This action requires [product] Ultimate"
-msgstr "Questa azione richiede [prodotto] Ultimate"
+msgstr "Questa azione richiede [product] Ultimate"
 
 msgctxt "Languages::max_storefronts_reached"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.new"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.ultimate"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.b2b.new"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.b2b"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.b2b.ultimate"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.ru.new"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.ru"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::max_storefronts_reached.ult.ru.ultimate"
 msgid "<p>You have reached the limit of storefronts available for your license. To add another storefront, please upgrade to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. Per aggiungere un'altra vetrina, si prega di aggiornare a <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>.</p>"
 
 msgctxt "Languages::new_text_ultimate_license_required"
 msgid "A special edition of [product] that offers an unlimited number of storefronts. If you switch to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
-msgstr "Un'edizione speciale di [prodotto] che offre un numero illimitato di vetrine. Se passi a <a href=\"\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
+msgstr "Un'edizione speciale di [product] che offre un numero illimitato di vetrine. Se passi a <a href=\"\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
 
 msgctxt "Languages::text_only_ultimate_license_required"
 msgid "A special edition called [product] Ultimate is required to perform this action. If you switch to <a href=\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see this message again, and you'll also be able to create an unlimited number of storefronts."
-msgstr "Per eseguire questa azione è necessaria un'edizione speciale chiamata [prodotto] Ultimate. Se passi a <a href=\"\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, non vedrai più questo messaggio e sarai anche in grado di creare un numero illimitato di vetrine."
+msgstr "Per eseguire questa azione è necessaria un'edizione speciale chiamata [product] Ultimate. Se passi a <a href=\"\"[ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, non vedrai più questo messaggio e sarai anche in grado di creare un numero illimitato di vetrine."
 
 msgctxt "Languages::text_storefront_license_required"
 msgid "An additional storefront for your standard [product] license. Good for those who don't intend to add a few more storefronts in the future."
-msgstr "Una vetrina aggiuntiva per la tua licenza standard [prodotto]. Buono per coloro che non hanno intenzione di aggiungere altre vetrine in futuro."
+msgstr "Una vetrina aggiuntiva per la tua licenza standard [product]. Buono per coloro che non hanno intenzione di aggiungere altre vetrine in futuro."
 
 msgctxt "Languages::available_upgrades"
 msgid "Available upgrades"
@@ -18356,7 +18356,7 @@ msgstr "La licenza e disabilitata. Verificare lo stato della licenza."
 
 msgctxt "Languages::licensing.license_error_license_is_disabled.title"
 msgid "Your [product] license has been disabled"
-msgstr "La tua licenza [prodotto] è stata disabilitata"
+msgstr "La tua licenza [product] è stata disabilitata"
 
 msgctxt "Languages::licensing.license_error_license_is_disabled.text"
 msgid "Please contact us <a href=\"[helpdesk_url]\" target=\"_blank\">via Customer Help Desk</a> to find out why it happened and what can be done about it. To access the admin panel right now, you can enter another valid license number, as long as it isn't used in another store:"
@@ -18480,7 +18480,7 @@ msgstr "Tornare a Google reCAPTCHA per protegere contro accessi bots"
 
 msgctxt "Languages::recaptcha_upgrade_notification_text"
 msgid "[product] now comes with the <b>Google reCAPTCHA</b> add-on to improve anti-bot validation. The add-on has been installed and activated during the upgrade, but the old CAPTCHA will still be used until you configure the add-on. We recommend switching to Google reCAPTCHA as soon as possible. To do that: <ol><li>Go to <b>Add-ons → Manage add-ons</b>.</li><li>Find and click on <b>Google reCAPTCHA</b> in the list of add-ons.</li><li>A pop-up window will open. Enter <b>Site key</b> and <b>Secret token</b>, then save your changes. The instructions on how to get the key and token are available <a href='https://developers.google.com/recaptcha/docs/start'>here</a>.</li></ol> <b>The Google reCAPTCHA add-on supports only the Responsive theme and its <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>child themes</a>.</b> Please contact the developer of your theme for more information before you switch to Google reCAPTCHA."
-msgstr "[prodotto] ora viene fornito con l'add-on <b>Google reCAPTCHA</b> per migliorare la validazione anti-bot. Il componente aggiuntivo è stato installato e attivato durante l'aggiornamento, ma il vecchio CAPTCHA sarà ancora utilizzato fino a quando non si configura il componente aggiuntivo. Consigliamo di passare a Google reCAPTCHA il prima possibile. Per farlo: <ol><li>Vai su <b>Add-ons → Gestisci componenti aggiuntivi</b>.</li><li>Trova e clicca su <b>Google reCAPTCHA</b> nell'elenco dei componenti aggiuntivi.</li><li>Si aprirà una finestra pop-up. Inserisci <b>chiave del sito</b> e <b> token segreto</b>, quindi salva le modifiche. Le istruzioni su come ottenere la chiave e il token sono disponibili <a href='https://developers.google.com/recaptcha/docs/start'>qui</a>.</li></ol> <b>Il componente aggiuntivo Google reCAPTCHA supporta solo il tema Responsive e i suoi <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>temi figli</a>.</b> Contatta lo sviluppatore del tuo tema per maggiori informazioni prima di passare a Google reCAPTCHA."
+msgstr "[product] ora viene fornito con l'add-on <b>Google reCAPTCHA</b> per migliorare la validazione anti-bot. Il componente aggiuntivo è stato installato e attivato durante l'aggiornamento, ma il vecchio CAPTCHA sarà ancora utilizzato fino a quando non si configura il componente aggiuntivo. Consigliamo di passare a Google reCAPTCHA il prima possibile. Per farlo: <ol><li>Vai su <b>Add-ons → Gestisci componenti aggiuntivi</b>.</li><li>Trova e clicca su <b>Google reCAPTCHA</b> nell'elenco dei componenti aggiuntivi.</li><li>Si aprirà una finestra pop-up. Inserisci <b>chiave del sito</b> e <b> token segreto</b>, quindi salva le modifiche. Le istruzioni su come ottenere la chiave e il token sono disponibili <a href='https://developers.google.com/recaptcha/docs/start'>qui</a>.</li></ol> <b>Il componente aggiuntivo Google reCAPTCHA supporta solo il tema Responsive e i suoi <a href='http://docs.cs-cart.com/4.5.x/designer_guide/parent_themes.html'>temi figli</a>.</b> Contatta lo sviluppatore del tuo tema per maggiori informazioni prima di passare a Google reCAPTCHA."
 
 msgctxt "Languages::tt_views_shippings_components_services_ups_ship_ups_pickup_type"
 msgid "<p>Select \"Daily Pickup\" to calculate the delivery cost according to Daily Rates.</p><p>Select \"One Time Pickup\", \"Letter Center\", or \"Air Service Center\" to calculate the delivery cost according to Retail Rates.</p>"
@@ -18492,11 +18492,11 @@ msgstr "\\Il tipo di ritiro \"Suggested Retail Rates\" per i metodi di spedizion
 
 msgctxt "Languages::ups_suggested_retail_rates_upgrade_notification_text"
 msgid "<p>The latest [product] version doesn't support the \"Suggested Retail Rates\" Pickup type for the UPS-based shipping methods.</p><p>If you used Suggested Retail Rates before, do this to actualize the delivery cost for your customers:</p><ul><li>Go to Administration → Shipping & taxes → Shipping methods.</li><li>Select the shipping method that uses UPS as a carrier.</li><li>Switch to the Configure tab and select a proper Pickup type: use \"One Time Pickup\", \"Letter Center\", or \"Air Service Center\" to calculate the delivery cost according to Retail Rates</li></ul>"
-msgstr "<p>L'ultima versione del [prodotto] non supporta il tipo di ritiro \"Suggested Retail Rates\" per i metodi di spedizione basati su UPS.</p><p>Se hai usato Suggested Retail Rates prima, fai così per attualizzare il costo di consegna per i tuoi clienti:</p><ul><li>Vai in Amministrazione → Spedizione"
+msgstr "<p>L'ultima versione del [product] non supporta il tipo di ritiro \"Suggested Retail Rates\" per i metodi di spedizione basati su UPS.</p><p>Se hai usato Suggested Retail Rates prima, fai così per attualizzare il costo di consegna per i tuoi clienti:</p><ul><li>Vai in Amministrazione → Spedizione"
 
 msgctxt "Languages::php_extension_missing"
 msgid "The [extension] PHP extension is not installed on your server"
-msgstr "L'estensione PHP [estensione] non è installata sul tuo server"
+msgstr "L'estensione PHP [extension] non è installata sul tuo server"
 
 msgctxt "Languages::customization"
 msgid "Customization"
@@ -18508,7 +18508,7 @@ msgstr "La verifica dell'immagine è stata completamente sostituita da Google re
 
 msgctxt "Languages::captcha_upgrade_notification_text"
 msgid "<p>Previously you had to use <b>Settings → Image verification</b> to configure anti-bot protection. Starting with [product] 4.5.1, that section of the settings doesn't exist. All relevant settings were moved to the Google reCAPTCHA add-on. The values of those settings remain as they were before the upgrade.</p><p>The Google reCAPTCHA add-on is now the only mechanism of anti-bot protection available in [product] by default. To set up anti-bot validation, follow these steps:</p><ol><li>Go to <b>Add-ons → Manage add-ons</b>.</li><li>Find and click on <b>Google reCAPTCHA</b> in the list of add-ons.</li><li>A pop-up window will open. Enter <b>Site key</b> and <b>Secret token</b>, then save your changes. The instructions on how to get the key and token are available <a href='https://developers.google.com/recaptcha/docs/start' target='_blank'>here</a>.</li><li>Configure other settings of the add-on as you see fit.</li></ol>"
-msgstr "<p>In precedenza dovevi usare <b>Impostazioni → Verifica immagine</b> per configurare la protezione anti-bot. A partire dal [prodotto] 4.5.1, quella sezione delle impostazioni non esiste più. Tutte le impostazioni rilevanti sono state spostate nel componente aggiuntivo Google reCAPTCHA. I valori di queste impostazioni rimangono come erano prima dell'aggiornamento.</p><p>Il componente aggiuntivo Google reCAPTCHA è ora l'unico meccanismo di protezione anti-bot disponibile in [prodotto] per impostazione predefinita. Per impostare la convalida anti-bot, segui questi passi:</p><ol><li>Vai su <b>Add-ons → Gestisci componenti aggiuntivi</b>.</li><li>Trova e clicca su <b>Google reCAPTCHA</b> nell'elenco dei componenti aggiuntivi.</li><li>Si aprirà una finestra pop-up. Inserisci <b>chiave del sito</b> e <b> token segreto</b>, quindi salva le modifiche. Le istruzioni su come ottenere la chiave e il token sono disponibili <a href='https://developers.google.com/recaptcha/docs/start' target='_blank'>qui</a>.</li><li>Configura le altre impostazioni del componente aggiuntivo come meglio credi.</li></ol>"
+msgstr "<p>In precedenza dovevi usare <b>Impostazioni → Verifica immagine</b> per configurare la protezione anti-bot. A partire dal [product] 4.5.1, quella sezione delle impostazioni non esiste più. Tutte le impostazioni rilevanti sono state spostate nel componente aggiuntivo Google reCAPTCHA. I valori di queste impostazioni rimangono come erano prima dell'aggiornamento.</p><p>Il componente aggiuntivo Google reCAPTCHA è ora l'unico meccanismo di protezione anti-bot disponibile in [product] per impostazione predefinita. Per impostare la convalida anti-bot, segui questi passi:</p><ol><li>Vai su <b>Add-ons → Gestisci componenti aggiuntivi</b>.</li><li>Trova e clicca su <b>Google reCAPTCHA</b> nell'elenco dei componenti aggiuntivi.</li><li>Si aprirà una finestra pop-up. Inserisci <b>chiave del sito</b> e <b> token segreto</b>, quindi salva le modifiche. Le istruzioni su come ottenere la chiave e il token sono disponibili <a href='https://developers.google.com/recaptcha/docs/start' target='_blank'>qui</a>.</li><li>Configura le altre impostazioni del componente aggiuntivo come meglio credi.</li></ol>"
 
 msgctxt "Languages::assign_to_me"
 msgid "Assign to me"
@@ -18556,7 +18556,7 @@ msgstr "Tab (linguette)"
 
 msgctxt "Languages::shippings.fedex.currency_is_missing"
 msgid "The rates calculated by FedEx are in [currency], and that currency doesn't exist in your store. Please create that currency; otherwise customers won't be able to select this shipping method."
-msgstr "Le tariffe calcolate da FedEx sono in [valuta], e questa valuta non esiste nel tuo negozio. Si prega di creare tale valuta, altrimenti i clienti non saranno in grado di selezionare questo metodo di spedizione."
+msgstr "Le tariffe calcolate da FedEx sono in [currency], e questa valuta non esiste nel tuo negozio. Si prega di creare tale valuta, altrimenti i clienti non saranno in grado di selezionare questo metodo di spedizione."
 
 msgctxt "Languages::text_redactor2"
 msgid "Redactor II"
@@ -18840,15 +18840,15 @@ msgstr "ora(e)"
 
 msgctxt "Languages::api_required_fields"
 msgid "The following fields are required: [fields]"
-msgstr "I seguenti campi sono obbligatori: [campi]"
+msgstr "I seguenti campi sono obbligatori: [fields]"
 
 msgctxt "Languages::api_invalid_value"
 msgid "Invalid value `[value]` specified for [field]"
-msgstr "Valore non valido `[valore]` specificato per [campo]"
+msgstr "Valore non valido `[value]` specificato per [field]"
 
 msgctxt "Languages::api_invalid_value_w_valid_list"
 msgid "Invalid value `[value]` specified for [field]. Valid values are: [valid_list]"
-msgstr "Valore non valido `[valore]` specificato per [campo]. I valori validi sono: [elenco_valido]"
+msgstr "Valore non valido `[value]` specificato per [field]. I valori validi sono: [valid_list]"
 
 msgctxt "Languages::api_empty_value"
 msgid "Empty value specified for the required [field] field."
@@ -19828,7 +19828,7 @@ msgstr "Legislazione russa: Prepararsi per il 1° gennaio 2019"
 
 msgctxt "Languages::ru.tax_and_payments.upgrade_message.message"
 msgid "<p>You have upgraded to [product] [version]. This version is prepared for the recent changes in Russian legislation (the increase of VAT to 20% and the support of Fiscal Data Format 1.05 for online cash registers). You'll only need to do this:</p><p>— If you use ATOL Online, switch to Fiscal Data Format 1.05 as described <a href=\"https://www.cs-cart.ru/blog/vyishel-cs-cart-4-9-2-c-podderzhkoy-ffd-1-05-v-atol-onlayn/\" target=\"_blank\">in our Russian blog</a>. You may have done it already after the release of version 4.9.2.</p>[tax_conversion][failing_services]"
-msgstr "<p>Hai aggiornato a [prodotto] [versione]. Questa versione è preparata per i recenti cambiamenti nella legislazione russa (l'aumento dell'IVA al 20\ne il supporto del Fiscal Data Format 1.05 per i registratori di cassa online). Dovrete fare solo questo:</p><p>- Se usate ATOL Online, passate al Fiscal Data Format 1.05 come descritto <a href=\"https://www.cs-cart.ru/blog/vyishel-cs-cart-4-9-2-c-podderzhkoy-ffd-1-05-v-atol-onlayn/\" target=\"_blank\">nel nostro blog russo</a>. Potreste averlo già fatto dopo il rilascio della versione 4.9.2.</p>[tax_conversion][failing_services]"
+msgstr "<p>Hai aggiornato a [product] [version]. Questa versione è preparata per i recenti cambiamenti nella legislazione russa (l'aumento dell'IVA al 20\ne il supporto del Fiscal Data Format 1.05 per i registratori di cassa online). Dovrete fare solo questo:</p><p>- Se usate ATOL Online, passate al Fiscal Data Format 1.05 come descritto <a href=\"https://www.cs-cart.ru/blog/vyishel-cs-cart-4-9-2-c-podderzhkoy-ffd-1-05-v-atol-onlayn/\" target=\"_blank\">nel nostro blog russo</a>. Potreste averlo già fatto dopo il rilascio della versione 4.9.2.</p>[tax_conversion][failing_services]"
 
 msgctxt "Languages::block_manager.view_layout.reset_filter"
 msgid "Edit layouts"
@@ -19884,7 +19884,7 @@ msgstr "Pannello amministrativo"
 
 msgctxt "Languages::checkout.min_cart_subtotal_required"
 msgid "To continue checkout process your order subtotal must exceed [amount]"
-msgstr "Per continuare il processo di checkout il subtotale del tuo ordine deve superare [importo]."
+msgstr "Per continuare il processo di checkout il subtotale del tuo ordine deve superare [amount]."
 
 msgctxt "Languages::lite_checkout.customer_information"
 msgid "Customer"
@@ -19900,7 +19900,7 @@ msgstr "Città, stato"
 
 msgctxt "Languages::lite_checkout.place_an_order_for"
 msgid "Place order ([amount])"
-msgstr "Effettua un ordine ([importo])"
+msgstr "Effettua un ordine ([amount])"
 
 msgctxt "Languages::lite_checkout.delivery_note"
 msgid "Customer's notes"
@@ -19940,7 +19940,7 @@ msgstr "Inserisci la città e lo stato e clicca qui per aggiornare le tariffe di
 
 msgctxt "Languages::lite_checkout.shipping_method_for"
 msgid "Shipping method for [group_name]"
-msgstr "Metodo di spedizione per [nome_gruppo]"
+msgstr "Metodo di spedizione per [group_name]"
 
 msgctxt "Languages::deprecated"
 msgid "Deprecated"
@@ -20236,11 +20236,11 @@ msgstr "Periodo di prova rimanente"
 
 msgctxt "Languages::demo_panel.theme_editor.enable"
 msgid "Edit style<br/><br/>Change the style of your store (logos, colors, fonts, and so on) and see the changes as you make them.<br/><br/>To use this functionality in your [product] store, go to Design → Themes and click \"Theme editor\""
-msgstr "Modifica lo stile<br/><br/>Modifica lo stile del tuo negozio (loghi, colori, caratteri e così via) e vedi i cambiamenti mentre li fai.<br/><br/>Per usare questa funzionalità nel tuo negozio [prodotto], vai su Design → Temi e clicca su \"Editor di temi\"."
+msgstr "Modifica lo stile<br/><br/>Modifica lo stile del tuo negozio (loghi, colori, caratteri e così via) e vedi i cambiamenti mentre li fai.<br/><br/>Per usare questa funzionalità nel tuo negozio [product], vai su Design → Temi e clicca su \"Editor di temi\"."
 
 msgctxt "Languages::demo_panel.block_manager.enable"
 msgid "Edit structure<br/><br/>Change various blocks with information: show them, hide them, or move them as you see fit.<br/>This currently works at the following page types: homepage, product, category, checkout.<br/><br/>To use this functionality in your [product] store, go to Design → Themes and click \"Edit layout on-site\""
-msgstr "Modifica la struttura<br/><br/>Modifica i vari blocchi con le informazioni: mostrali, nascondili o spostali come meglio credi.<br/>Questo attualmente funziona nei seguenti tipi di pagina: homepage, prodotto, categoria, cassa.<br/><br/>Per usare questa funzionalità nel tuo negozio [prodotto], vai su Design → Temi e clicca su \"Modifica layout in loco\"."
+msgstr "Modifica la struttura<br/><br/>Modifica i vari blocchi con le informazioni: mostrali, nascondili o spostali come meglio credi.<br/>Questo attualmente funziona nei seguenti tipi di pagina: homepage, prodotto, categoria, cassa.<br/><br/>Per usare questa funzionalità nel tuo negozio [product], vai su Design → Temi e clicca su \"Modifica layout in loco\"."
 
 msgctxt "Languages::individual"
 msgid "Individual"
@@ -20284,11 +20284,11 @@ msgstr "Il campo \"[field_name]\" è stato impostato come obbligatorio."
 
 msgctxt "Languages::required_profile_field_description"
 msgid "The \"[field_name]\" profile field is required as it is used to calculate shipping rates."
-msgstr "Il campo del profilo \"[nome_campo]\" è richiesto in quanto è utilizzato per calcolare le tariffe di spedizione."
+msgstr "Il campo del profilo \"[field_name]\" è richiesto in quanto è utilizzato per calcolare le tariffe di spedizione."
 
 msgctxt "Languages::checkout_location_was_rewritten_upgrade_notification_text"
 msgid "<p>You can now move parts of the new checkout page around, or hide the parts you don't need. To do this, go to <b>Design → Layouts</b> and switch to the <i>Checkout</i> tab. For your convenience, we have updated your checkout page: it now has all the new blocks that a clean [product] installation has. Please check your checkout page and modify it as you see fit.</p><p>We also made a back-up of your previous checkout page. If you need to revert our changes, just import the layout from <b>[file_paths]</b></p><p><a href=\"[layout_page]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Configure checkout here</a></p>"
-msgstr "<p>Ora puoi spostare parti della nuova pagina di checkout, o nascondere le parti che non ti servono. Per farlo, vai su <b>Design → Layout</b> e passa alla scheda <i>Checkout</i>. Per tua comodità, abbiamo aggiornato la tua pagina di checkout: ora ha tutti i nuovi blocchi che un'installazione [prodotto] pulita ha. Controlla la tua pagina di checkout e modificala come meglio credi.</p><p>Abbiamo anche fatto un back-up della tua precedente pagina di checkout. Se hai bisogno di ripristinare i nostri cambiamenti, importa semplicemente il layout da <b>[file_paths]</b></p><p><a href=\"[layout_page]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Configura il checkout qui</a></p>"
+msgstr "<p>Ora puoi spostare parti della nuova pagina di checkout, o nascondere le parti che non ti servono. Per farlo, vai su <b>Design → Layout</b> e passa alla scheda <i>Checkout</i>. Per tua comodità, abbiamo aggiornato la tua pagina di checkout: ora ha tutti i nuovi blocchi che un'installazione [product] pulita ha. Controlla la tua pagina di checkout e modificala come meglio credi.</p><p>Abbiamo anche fatto un back-up della tua precedente pagina di checkout. Se hai bisogno di ripristinare i nostri cambiamenti, importa semplicemente il layout da <b>[file_paths]</b></p><p><a href=\"[layout_page]\" target=\"_blank\" class=\"btn btn-large btn-primary\">Configura il checkout qui</a></p>"
 
 msgctxt "Languages::upgrade_notification_welcome_title"
 msgid "Welcome to [product] [version]!"
@@ -20752,15 +20752,15 @@ msgstr "Mostra i metodi di spedizione in tempo reale anche se i loro server non 
 
 msgctxt "Languages::block_manager.manage_layout_in_tab_not_exist_location"
 msgid "<p>This [entity] currently doesn't have an associated layout page. That's why it uses blocks from the default layout page.<br> If you'd like to edit blocks specifically for this [entity], then:</p><p><ol><li>Go to <b><a href=\"[link]\">Design → Layouts</a></b></li><li>Add a layout page with <b>Dispatch:</b> <code>[dispatch_value]</code>.</li><li>Switch to the <b>[entity_tab]</b> tab and make sure that the layout page is enabled for this [entity].</li><li>Save your changes and return here.</li></ol></p>"
-msgstr "<p>Questa [entità] attualmente non ha una pagina di layout associata. Ecco perché usa i blocchi della pagina di layout predefinita.<br> Se vuoi modificare i blocchi specificamente per questa [entità], allora:</p><p><ol><li>Vai su <b><a href=\"[link]\">Design → Layout</a></b></li><li>Aggiungi una pagina di layout con <b>Dispatch:</b> <code>[dispatch_value]</code>.</li><li>Passa alla scheda <b>[entity_tab]</b> e assicurati che la pagina di layout sia abilitata per questa [entity].</li><li>Salva le tue modifiche e torna qui.</li></ol></p>"
+msgstr "<p>Questa [entity] attualmente non ha una pagina di layout associata. Ecco perché usa i blocchi della pagina di layout predefinita.<br> Se vuoi modificare i blocchi specificamente per questa [entity], allora:</p><p><ol><li>Vai su <b><a href=\"[link]\">Design → Layout</a></b></li><li>Aggiungi una pagina di layout con <b>Dispatch:</b> <code>[dispatch_value]</code>.</li><li>Passa alla scheda <b>[entity_tab]</b> e assicurati che la pagina di layout sia abilitata per questa [entity].</li><li>Salva le tue modifiche e torna qui.</li></ol></p>"
 
 msgctxt "Languages::block_manager.manage_layout_in_tab_unavailable_by_object_id"
 msgid "<p>This [entity] currently doesn't have an associated layout page. That's why it uses blocks from the default layout page.<br> If you'd like to edit blocks specifically for this [entity], then:</p><p><ol><li>Edit the <b><a href=\"[link]\">[location_name]</a></b> layout page.</li><li>Switch to the [entity_tab] tab and make sure that the layout page is enabled for this [entity].</li><li>Save your changes and return here.</li></ol></p>"
-msgstr "<p>Questa [entità] attualmente non ha una pagina di layout associata. Ecco perché usa i blocchi della pagina di layout predefinita.<br> Se vuoi modificare i blocchi specificamente per questa [entità], allora:</p><p><ol><li>Modifica la pagina di layout <b><a href=\"[link]\">[location_name]</a></b>.</li><li>Passa alla scheda [entity_tab] e assicurati che la pagina di layout sia abilitata per questa [entità].</li><li>Salva le tue modifiche e torna qui.</li></ol></p>"
+msgstr "<p>Questa [entity] attualmente non ha una pagina di layout associata. Ecco perché usa i blocchi della pagina di layout predefinita.<br> Se vuoi modificare i blocchi specificamente per questa [entity], allora:</p><p><ol><li>Modifica la pagina di layout <b><a href=\"[link]\">[location_name]</a></b>.</li><li>Passa alla scheda [entity_tab] e assicurati che la pagina di layout sia abilitata per questa [entity].</li><li>Salva le tue modifiche e torna qui.</li></ol></p>"
 
 msgctxt "Languages::block_manager.manage_layout_in_tab_unavailable"
 msgid "Sorry, you can't edit blocks for this [entity]. If you'd like to do this, please contact the main administrator. Ask him or her to check the <b>Layouts</b> tab of this [entity] in their admin panel. That will give the main admin all the necessary information."
-msgstr "Spiacente, non puoi modificare i blocchi per questa [entità]. Se vuoi farlo, contatta l'amministratore principale. Chiedigli di controllare la scheda <b>Layouts</b> di questa [entità] nel loro pannello di amministrazione. Questo darà all'amministratore principale tutte le informazioni necessarie."
+msgstr "Spiacente, non puoi modificare i blocchi per questa [entity]. Se vuoi farlo, contatta l'amministratore principale. Chiedigli di controllare la scheda <b>Layouts</b> di questa [entity] nel loro pannello di amministrazione. Questo darà all'amministratore principale tutte le informazioni necessarie."
 
 msgctxt "Languages::block_manager.dynamic_entity_products"
 msgid "product"
@@ -20876,7 +20876,7 @@ msgstr "Stampare i documenti"
 
 msgctxt "Languages::change_to_status"
 msgid "Change to [status]"
-msgstr "Passare a [stato]"
+msgstr "Passare a [status]"
 
 msgctxt "Languages::invoice_pdf"
 msgid "Invoice (PDF)"
@@ -20988,7 +20988,7 @@ msgstr "Configura le valute disponibili su questa vetrina"
 
 msgctxt "Languages::variant_with_name_already_exist"
 msgid "Couldn't rename feature variant \"[variant]\". Reason: a variant with the new name already exists."
-msgstr "Impossibile rinominare la caratteristica variante \"[variante]\". Motivo: esiste già una variante con il nuovo nome."
+msgstr "Impossibile rinominare la caratteristica variante \"[variant]\". Motivo: esiste già una variante con il nuovo nome."
 
 msgctxt "Languages::delete_default_destination_notice"
 msgid "Couldn't delete the default rate area. It must always exist."
@@ -21112,11 +21112,11 @@ msgstr "Dove accedere a questo componente aggiuntivo"
 
 msgctxt "Languages::addon_is_compatible"
 msgid "This add-on version is compatible with your current [product] version."
-msgstr "Questa versione aggiuntiva è compatibile con la tua attuale versione [prodotto]."
+msgstr "Questa versione aggiuntiva è compatibile con la tua attuale versione [product]."
 
 msgctxt "Languages::addon_required_version"
 msgid "The add-on requires [version] version."
-msgstr "Il componente aggiuntivo richiede la versione [versione]."
+msgstr "Il componente aggiuntivo richiede la versione [version]."
 
 msgctxt "Languages::version_information"
 msgid "Version information"
@@ -21132,7 +21132,7 @@ msgstr "Pagina dello sviluppatore"
 
 msgctxt "Languages::show_all_category_addons"
 msgid "Show all [category] add-ons"
-msgstr "Mostra tutti i componenti aggiuntivi [categoria]"
+msgstr "Mostra tutti i componenti aggiuntivi [category]"
 
 msgctxt "Languages::addons.other_category"
 msgid "Other"
@@ -21568,7 +21568,7 @@ msgstr "Altri temi nel Mercato"
 
 msgctxt "Languages::sw.logo_recommended_size_text"
 msgid "recommended size [height]px × [width]px"
-msgstr "dimensioni raccomandate [altezza]px × [larghezza]px"
+msgstr "dimensioni raccomandate [height]px × [width]px"
 
 msgctxt "Languages::sw.money_goes_to_owner"
 msgid "Customer makes a single payment, all money goes to you"
@@ -21612,11 +21612,11 @@ msgstr "Impostare come non predefinito"
 
 msgctxt "Languages::saved_search.set_as_default_confirm"
 msgid "Saved search \"[name]\" will open by default instead of the full list of objects. Is that what you'd like?"
-msgstr "La ricerca salvata \"[nome]\" si aprirà di default invece della lista completa degli oggetti. È questo che vorresti?"
+msgstr "La ricerca salvata \"[name]\" si aprirà di default invece della lista completa degli oggetti. È questo che vorresti?"
 
 msgctxt "Languages::saved_search.set_as_non_default_confirm"
 msgid "The full list of objects will open by default instead of saved search \"[name]\". Is that what you'd like?"
-msgstr "L'elenco completo degli oggetti si aprirà di default invece della ricerca salvata \"[nome]\". È questo che vorresti?"
+msgstr "L'elenco completo degli oggetti si aprirà di default invece della ricerca salvata \"[name]\". È questo che vorresti?"
 
 msgctxt "Languages::exim_subtotal_discount"
 msgid "Subtotal discount"
@@ -21624,19 +21624,19 @@ msgstr "Sconto subtotale"
 
 msgctxt "Languages::storefront_languages_assigned"
 msgid "The \"<a href=\"[url]\">[name]</a>\" storefront had no available languages configured. All languages has been made available for it."
-msgstr "La vetrina \"<a href=\"[url]\">[nome]</a>\" non aveva lingue disponibili configurate. Tutte le lingue sono state rese disponibili per esso."
+msgstr "La vetrina \"<a href=\"[url]\">[name]</a>\" non aveva lingue disponibili configurate. Tutte le lingue sono state rese disponibili per esso."
 
 msgctxt "Languages::storefront_currencies_assigned"
 msgid "The \"<a href=\"[url]\">[name]</a>\" storefront had no available currencies configured. Default currency has been made available for it."
-msgstr "La vetrina \"<a href=\"[url]\">[nome]</a>\" non aveva valute disponibili configurate. La valuta predefinita è stata resa disponibile per esso."
+msgstr "La vetrina \"<a href=\"[url]\">[name]</a>\" non aveva valute disponibili configurate. La valuta predefinita è stata resa disponibile per esso."
 
 msgctxt "Languages::storefronts_for_language_absent"
 msgid "The <b>[name]</b> language had no storefronts selected. All storefronts has been made available for it."
-msgstr "La lingua <b>[nome]</b> non aveva nessuna vetrina selezionata. Tutte le vetrine sono state rese disponibili per essa."
+msgstr "La lingua <b>[name]</b> non aveva nessuna vetrina selezionata. Tutte le vetrine sono state rese disponibili per essa."
 
 msgctxt "Languages::storefronts_for_currency_absent"
 msgid "The <b>[name]</b> currency had no storefronts selected. All storefronts has been made available for it."
-msgstr "La moneta <b>[nome]</b> non aveva nessuna vetrina selezionata. Tutte le vetrine sono state rese disponibili per essa."
+msgstr "La moneta <b>[name]</b> non aveva nessuna vetrina selezionata. Tutte le vetrine sono state rese disponibili per essa."
 
 msgctxt "Languages::event.product.back_in_stock.name"
 msgid "Product is back in stock"
@@ -21748,11 +21748,11 @@ msgstr "Attivo"
 
 msgctxt "Languages::addons.mve_ult_or_plus_required"
 msgid "[product] Plus or Ultimate required"
-msgstr "[Prodotto] Plus o Ultimate richiesto"
+msgstr "[product] Plus o Ultimate richiesto"
 
 msgctxt "Languages::addons.ult_required"
 msgid "[product] Ultimate required"
-msgstr "[prodotto] ultimo richiesto"
+msgstr "[product] ultimo richiesto"
 
 msgctxt "Languages::addons.upgrade_available"
 msgid "Upgrade available"
@@ -21804,7 +21804,7 @@ msgstr "Non è possibile selezionare gruppi di caratteristiche dei prodotti che 
 
 msgctxt "Languages::removing_default_language_from_storefront"
 msgid "Sorry, we couldn't remove the [language_name] language from storefront [storefront_name]. To remove it, please go to <b>Settings → Appearance</b> and change the <b>Frontend default language</b> for storefront [storefront_name] first.|Sorry, we couldn't remove the [language_name] language from storefronts: [storefront_name]. To remove it, please go to <b>Settings → Appearance</b> and change the <b>Frontend default language</b> for storefronts: [storefront_name] first."
-msgstr "Spiacenti, non siamo riusciti a rimuovere la lingua [nome_lingua] dallo storefront [nome_storefront]. Per rimuoverla, vai a <b>Impostazioni → Aspetto</b> e cambia la <b>Lingua predefinita del frontend</b> per la vetrina [nome_storefront] per prima.|Scusi, non siamo riusciti a rimuovere la lingua [nome_lingua] dalla vetrina: [nome_negozio]. Per rimuoverla, vai in <b>Impostazioni → Aspetto</b> e cambia la <b>Lingua predefinita del frontend</b> per le vetrine: [nome_negozio] prima."
+msgstr "Spiacenti, non siamo riusciti a rimuovere la lingua [language_name] dallo storefront [storefront_name]. Per rimuoverla, vai a <b>Impostazioni → Aspetto</b> e cambia la <b>Lingua predefinita del frontend</b> per la vetrina [storefront_name] per prima.|Scusi, non siamo riusciti a rimuovere la lingua [language_name] dalla vetrina: [storefront_name]. Per rimuoverla, vai in <b>Impostazioni → Aspetto</b> e cambia la <b>Lingua predefinita del frontend</b> per le vetrine: [storefront_name] prima."
 
 msgctxt "Languages::sw.vendor_panel"
 msgid "Vendor panel"
@@ -21928,7 +21928,7 @@ msgstr "I clienti lo vedranno nella pagina del loro profilo sul sito."
 
 msgctxt "Languages::email_body_anonymization_request"
 msgid "<p><a href=\"[user_profile_url]\" target=\"_blank\">[user]</a> with the email address [customer_email] has requested the removal of personal data with the following comment:</p> <p>[comment]</p> <p>Make sure that all business with the customer (orders, return requests, etc.) is concluded. Then <a href=\"[user_profile_url]\" target=\"_blank\">go to the customer page in the admin panel</a> and choose the \"Anonymize\" action. This will remove the customer's personal data (including email, name, etc.) everywhere in the system, while retaining the data relevant to your business (ordered products, etc). The customer will be able to register a new account with the same email.</p>"
-msgstr "<p><a href=\"\"[user_profile_url]\" target=\"_blank\">[utente]</a> con l'indirizzo email [customer_email] ha richiesto la rimozione dei dati personali con il seguente commento:</p> <p>[commento]</p> <p>Assicurati che tutti gli affari con il cliente (ordini, richieste di reso, ecc.) siano conclusi. Poi <a href=\"\"[user_profile_url]\" target=\"_blank\">andare alla pagina del cliente nel pannello di amministrazione</a> e scegliere l'azione \"Anonimizza\". Questo rimuoverà i dati personali del cliente (incluso email, nome, ecc.) ovunque nel sistema, mentre manterrà i dati rilevanti per la tua attività (prodotti ordinati, ecc.). Il cliente sarà in grado di registrare un nuovo account con la stessa email.</p>"
+msgstr "<p><a href=\"\"[user_profile_url]\" target=\"_blank\">[user]</a> con l'indirizzo email [customer_email] ha richiesto la rimozione dei dati personali con il seguente commento:</p> <p>[comment]</p> <p>Assicurati che tutti gli affari con il cliente (ordini, richieste di reso, ecc.) siano conclusi. Poi <a href=\"\"[user_profile_url]\" target=\"_blank\">andare alla pagina del cliente nel pannello di amministrazione</a> e scegliere l'azione \"Anonimizza\". Questo rimuoverà i dati personali del cliente (incluso email, nome, ecc.) ovunque nel sistema, mentre manterrà i dati rilevanti per la tua attività (prodotti ordinati, ecc.). Il cliente sarà in grado di registrare un nuovo account con la stessa email.</p>"
 
 msgctxt "Languages::email_subject_anonymization_request"
 msgid "Personal Data Removal Request: [customer_email]"
@@ -21964,5 +21964,5 @@ msgstr "Azione necessaria per garantire la sicurezza dei dati: assegnare gli amm
 
 msgctxt "Languages::upgrade_notification.message_fix_vendor_company_id"
 msgid "Under rare circumstances, a vendor's administrator could accidentally become unlinked from their vendor. That would allow the administrator to see the orders of other vendors. We took action to prevent unlinking from happening in the future, and also relinked vendors' admins to vendors where we could.<br><br>However, we couldn't reliably link some administrators to vendors. That needs to be done manually. Please select a vendor for the vendor's administrators listed below. Just follow the links to their profile pages in the admin panel, select the vendors there, and save your changes. You don't have to do it now (you can always do it in \"Users > Vendor's administrators\" later), but the sooner it is done, the better.<br><br>Here are the administrators that need to be assigned to vendors:<br><br><ul>[profiles]</ul>"
-msgstr "In rare circostanze, l'amministratore di un fornitore potrebbe accidentalmente essere scollegato dal suo fornitore. Questo permetterebbe all'amministratore di vedere gli ordini di altri venditori. Abbiamo preso provvedimenti per evitare che lo scollegamento avvenga in futuro, e abbiamo anche ricollegato gli amministratori dei venditori ai venditori dove abbiamo potuto.<br><br>Tuttavia, non abbiamo potuto collegare in modo affidabile alcuni amministratori ai venditori. Questo deve essere fatto manualmente. Si prega di selezionare un fornitore per gli amministratori del fornitore elencati qui sotto. Basta seguire i link alle loro pagine di profilo nel pannello di amministrazione, selezionare i venditori lì, e salvare le modifiche. Non devi farlo ora (puoi sempre farlo in \"Utenti > Amministratori del venditore\" più tardi), ma prima viene fatto, meglio è.<br><br>Questi sono gli amministratori che devono essere assegnati ai venditori:<br><br><ul>[profili]</ul>"
+msgstr "In rare circostanze, l'amministratore di un fornitore potrebbe accidentalmente essere scollegato dal suo fornitore. Questo permetterebbe all'amministratore di vedere gli ordini di altri venditori. Abbiamo preso provvedimenti per evitare che lo scollegamento avvenga in futuro, e abbiamo anche ricollegato gli amministratori dei venditori ai venditori dove abbiamo potuto.<br><br>Tuttavia, non abbiamo potuto collegare in modo affidabile alcuni amministratori ai venditori. Questo deve essere fatto manualmente. Si prega di selezionare un fornitore per gli amministratori del fornitore elencati qui sotto. Basta seguire i link alle loro pagine di profilo nel pannello di amministrazione, selezionare i venditori lì, e salvare le modifiche. Non devi farlo ora (puoi sempre farlo in \"Utenti > Amministratori del venditore\" più tardi), ma prima viene fatto, meglio è.<br><br>Questi sono gli amministratori che devono essere assegnati ai venditori:<br><br><ul>[profiles]</ul>"
 

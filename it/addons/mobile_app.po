@@ -302,11 +302,11 @@ msgstr "Aggiornare i testi usando i file di localizzazione esistenti"
 
 msgctxt "Languages::mobile_app.invalid_locale_file"
 msgid "Locale file selected for the \"[language]\" language is not a valid JSON file"
-msgstr "Il file di localizzazione selezionato per la lingua \"[lingua]\" non è un file JSON valido"
+msgstr "Il file di localizzazione selezionato per la lingua \"[language]\" non è un file JSON valido"
 
 msgctxt "Languages::mobile_app.app_translation_updated.item"
 msgid "[language]: [n] texts|[language]: [n] texts"
-msgstr "[lingua]: [n] testi|[lingua]: [n] testi"
+msgstr "[language]: [n] testi|[language]: [n] testi"
 
 msgctxt "Languages::mobile_app.app_translation_updated"
 msgid "Mobile application translations have been updated"

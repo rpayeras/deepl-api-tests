@@ -158,27 +158,27 @@ msgstr "/nome-prodotto.html"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category_nohtml"
 msgid "/category-name/[company]product-name/"
-msgstr "/categoria/[sottocategoria/]nome-prodotto/"
+msgstr "/categoria/[company]nome-prodotto/"
 
 msgctxt "SettingsVariants::seo::seo_product_type::product_category"
 msgid "/category-name/[company]product-name.html"
-msgstr "/categoria/[sottocategoria/]nome-prodotto.html"
+msgstr "/categoria/[company]nome-prodotto.html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category_nohtml"
 msgid "/parent-category/category/[page-2/]"
-msgstr "/categoria-padre/categoria/[pagina2/]"
+msgstr "/categoria-padre/categoria/[page-2/]"
 
 msgctxt "SettingsVariants::seo::seo_category_type::category"
 msgid "/parent-category/category-[page-2].html"
-msgstr "/categoria-padre/categoria-[pagina2].html"
+msgstr "/categoria-padre/categoria-[page-2].html"
 
 msgctxt "SettingsVariants::seo::seo_category_type::root_category"
 msgid "/category/[page-2/]"
-msgstr "/categoria/[pagina2/]"
+msgstr "/categoria/[page-2/]"
 
 msgctxt "SettingsVariants::seo::seo_page_type::page"
 msgid "/parent-page/page.html"
-msgstr "/pagina-padre/pagina.html"
+msgstr "/pagina-padre/page.html"
 
 msgctxt "SettingsVariants::seo::seo_page_type::page_nohtml"
 msgid "/parent-page/page/"

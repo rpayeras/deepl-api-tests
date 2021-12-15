@@ -218,7 +218,7 @@ msgstr "Approvare il prodotto"
 
 msgctxt "Languages::vendor_data_premoderation.approve_product"
 msgid "Approve \"[product]\""
-msgstr "Approvare \"[prodotto]\""
+msgstr "Approvare \"[product]\""
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_product_btn"
 msgid "Disapprove product"
@@ -226,7 +226,7 @@ msgstr "Disapprova il prodotto"
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_product"
 msgid "Disapprove \"[product]\""
-msgstr "Disapprova \"[prodotto]\""
+msgstr "Disapprova \"[product]\""
 
 msgctxt "Languages::vendor_data_premoderation.disapprove_products"
 msgid "Disapprove products"
@@ -246,7 +246,7 @@ msgstr "Hai [n] prodotti che richiedono la tua approvazione|Hai [n] prodotti che
 
 msgctxt "Languages::vendor_data_premoderation.notification.products_require_approval.message"
 msgid "This product is pending for your approval since [since]. Click here to view this product.|These products are pending for your approval since [since]. Click here to view these products."
-msgstr "Questo prodotto è in attesa di approvazione dal [dal]. Clicca qui per vedere questo prodotto. Questi prodotti sono in attesa di approvazione dal [dal]. Clicca qui per vedere questi prodotti."
+msgstr "Questo prodotto è in attesa di approvazione dal [since]. Clicca qui per vedere questo prodotto. Questi prodotti sono in attesa di approvazione dal [since]. Clicca qui per vedere questi prodotti."
 
 msgctxt "Languages::vendor_data_premoderation.notification.approved.title"
 msgid "Your product has been approved|Your products have been approved"
@@ -254,7 +254,7 @@ msgstr "Il tuo prodotto è stato approvato|I tuoi prodotti sono stati approvati"
 
 msgctxt "Languages::vendor_data_premoderation.notification.approved.message"
 msgid "\"[product]\" has been approved by the store administration and added to the product catalog. Click here to view this product.|[n] products have been approved by the store administration and added to the product catalog. Click here to view these products."
-msgstr "\"[prodotto]\" è stato approvato dall'amministrazione del negozio e aggiunto al catalogo prodotti. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati approvati dall'amministrazione del negozio e aggiunti al catalogo prodotti. Clicca qui per vedere questi prodotti."
+msgstr "\"[product]\" è stato approvato dall'amministrazione del negozio e aggiunto al catalogo prodotti. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati approvati dall'amministrazione del negozio e aggiunti al catalogo prodotti. Clicca qui per vedere questi prodotti."
 
 msgctxt "Languages::vendor_data_premoderation.notification.disapproved.title"
 msgid "Your product has been disapproved|Your products have been disapproved"
@@ -262,7 +262,7 @@ msgstr "Il tuo prodotto è stato disapprovato|I tuoi prodotti sono stati disappr
 
 msgctxt "Languages::vendor_data_premoderation.notification.disapproved.message"
 msgid "\"[product]\" has been disapproved by the store administration. Click here to view this product.|[n] products have been disapproved by the store administration. Click here to view these products."
-msgstr "\"[prodotto]\" è stato disapprovato dall'amministrazione del negozio. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati disapprovati dall'amministrazione del negozio. Clicca qui per vedere questi prodotti."
+msgstr "\"[product]\" è stato disapprovato dall'amministrazione del negozio. Clicca qui per vedere questo prodotto.|[n] prodotti sono stati disapprovati dall'amministrazione del negozio. Clicca qui per vedere questi prodotti."
 
 msgctxt "Languages::vendor_data_premoderation.products_sent_to_premoderation"
 msgid "Your changes have been saved. Before your product is added to the product catalog, it must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval.|Your changes have been saved. Before your products are added to the product catalog, they must be approved by the store administration. Follow <a href=\"[product_approval_url]\">this link</a> to view products that require approval."

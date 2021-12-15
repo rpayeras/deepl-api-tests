@@ -1,5 +1,5 @@
 msgid ""
-msgstr 
+msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
@@ -458,11 +458,11 @@ msgstr "Invito del fornitore"
 
 msgctxt "Languages::vendor_invitation_email_subject"
 msgid "Come Sell With [default_company_name]"
-msgstr "Vieni a vendere con [nome_azienda_predefinito]"
+msgstr "Vieni a vendere con [default_company_name]"
 
 msgctxt "Languages::vendor_invitation_email_body"
 msgid "<p>Hello,</p><br/><p>We'd like to invite you to <a href=\"[create_account_url]\">create an account</a> with [default_company_name]. You'll be able to expand your client base by listing your products on our platform and selling them to our visitors.</p><br/><p>Best regards,</p><p>[default_company_name] team</p>"
-msgstr "<p>Ciao,</p><br/><p>Vorremmo invitarti a <a href=\"[create_account_url]\">creare un account</a> con [default_company_name]. Sarai in grado di espandere la tua base di clienti elencando i tuoi prodotti sulla nostra piattaforma e vendendoli ai nostri visitatori.</p><br/><p>Saluti, </p><p>Squadra di [nome_azienda_predefinito]</p>"
+msgstr "<p>Ciao,</p><br/><p>Vorremmo invitarti a <a href=\"[create_account_url]\">creare un account</a> con [default_company_name]. Sarai in grado di espandere la tua base di clienti elencando i tuoi prodotti sulla nostra piattaforma e vendendoli ai nostri visitatori.</p><br/><p>Saluti, </p><p>Squadra di [default_company_name]</p>"
 
 msgctxt "Languages::vendor_terms_n_conditions"
 msgid "I accept the [terms_href]"
@@ -482,7 +482,7 @@ msgstr "<p>Si prega di leggere questi termini e condizioni (\"Termini\", \"Termi
 
 msgctxt "Languages::mve_ultimate_or_plus_license_required"
 msgid "This action requires [product] Ultimate or [product] Plus"
-msgstr "Questa azione richiede [prodotto] Ultimate o [prodotto] Plus"
+msgstr "Questa azione richiede [product] Ultimate o [product] Plus"
 
 msgctxt "Languages::mve_ultimate_license_required"
 msgid "[product] Ultimate is required for this"
@@ -490,19 +490,19 @@ msgstr "[L'Ultimate è richiesto per questo"
 
 msgctxt "Languages::text_mve_ultimate_or_plus_license_required"
 msgid "This action requires [product] Ultimate or [product] Plus. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> or <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, you'll get access to all their features."
-msgstr "Questa azione richiede [prodotto] Ultimate o [prodotto] Plus. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[prodotto] Ultimate</a> o <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] Plus</a>, avrai accesso a tutte le loro caratteristiche."
+msgstr "Questa azione richiede [product] Ultimate o [product] Plus. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a> o <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus</a>, avrai accesso a tutte le loro caratteristiche."
 
 msgctxt "Languages::max_storefronts_reached"
 msgid "<p>You have reached the limit of storefronts available for your license. Adding another storefront requires buying a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, an edition with an unlimited number of storefronts.</p>"
-msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. L'aggiunta di un'altra vetrina richiede l'acquisto di un <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>, un'edizione con un numero illimitato di vetrine.</p>"
+msgstr "<p>Hai raggiunto il limite di vetrine disponibili per la tua licenza. L'aggiunta di un'altra vetrina richiede l'acquisto di un <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, un'edizione con un numero illimitato di vetrine.</p>"
 
 msgctxt "Languages::mve_plus_license"
 msgid "[product] Plus"
-msgstr "[Prodotto] Plus"
+msgstr "[product] Plus"
 
 msgctxt "Languages::mve_ultimate_license"
 msgid "[product] Ultimate"
-msgstr "[Prodotto] Ultimo"
+msgstr "[product] Ultimo"
 
 msgctxt "Languages::text_mve_plus_license_required"
 msgid "<p>Let your vendors receive money from customers directly via your marketplace.</p><p>Manage vendors' abilities via user groups, and allow your vendors to change the looks of their stores.</p><p>Create a unified catalog, where vendors can start selling any product in a matter of minutes.</p>"
@@ -514,7 +514,7 @@ msgstr "<p>Franchising: ottieni un numero illimitato di vetrine per il tuo marke
 
 msgctxt "Languages::text_mve_ultimate_license"
 msgid "A special edition of [product] that offers all the features of [product] Plus and an unlimited number of storefronts. If you switch to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, you'll never see the message about the storefront limit again."
-msgstr "Un'edizione speciale di [prodotto] che offre tutte le caratteristiche di [prodotto] Plus e un numero illimitato di vetrine. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
+msgstr "Un'edizione speciale di [product] che offre tutte le caratteristiche di [product] Plus e un numero illimitato di vetrine. Se passi a <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, non vedrai più il messaggio sul limite di vetrine."
 
 msgctxt "Languages::product_state_description.mve.new"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -522,11 +522,11 @@ msgstr "<p>Accesso pieno non limitato per tutte le caratteristiche. Introdurre u
 
 msgctxt "Languages::product_state_description.mve"
 msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
-msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] licenza Ultimate.</a></p><br>"
+msgstr "<p>Hai attivato il tuo [product]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] licenza Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.mve.plus"
 msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
-msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate license.</a></p><br />"
+msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
 
 msgctxt "Languages::product_state_description.mve.ultimate"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -542,11 +542,11 @@ msgstr "<p>Accesso completo e illimitato a tutte le funzioni. Inserisci un numer
 
 msgctxt "Languages::product_state_description.mve.ru"
 msgid "<p>You've activated your [product]. You can use it without time restrictions now. For advanced features (such as separate checkout for each vendor, and vendor-created promotions), get the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus license.</a> To use multiple domains for your marketplace, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br>"
-msgstr "<p>Hai attivato il tuo [prodotto]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[prodotto] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] licenza Ultimate.</a></p><br>"
+msgstr "<p>Hai attivato il tuo [product]. Ora puoi usarlo senza restrizioni di tempo. Per funzioni avanzate (come il checkout separato per ogni venditore e le promozioni create dal venditore), ottieni la <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] licenza Plus.</a> Per utilizzare più domini per il tuo marketplace, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] licenza Ultimate.</a></p><br>"
 
 msgctxt "Languages::product_state_description.mve.ru.plus"
 msgid "<p>Access to all the functionality, except for multiple storefronts. To have domains for specific audiences, get the <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
-msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate license.</a></p><br />"
+msgstr "<p>Accesso a tutte le funzionalità, tranne che per le vetrine multiple. Per avere domini per un pubblico specifico, ottieni la <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate license.</a></p><br />"
 
 msgctxt "Languages::product_state_description.mve.ru.ultimate"
 msgid "<p>Full unrestricted access to all features. Enter a valid license number to activate.</p><p>This mode can be activated at any time.</p><br />"
@@ -558,11 +558,11 @@ msgstr "<p>Accesso completo e illimitato a tutte le funzioni. Inserisci un numer
 
 msgctxt "Languages::text_store_mode_changed_to_mve"
 msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
-msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
+msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [product], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.plus"
 msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
-msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, ad eccezione delle vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>."
+msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, ad eccezione delle vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ultimate"
 msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
@@ -574,11 +574,11 @@ msgstr "<strong>La modalità Impresa</strong> è stata attivata. In questa modal
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru"
 msgid "Your store now uses active license. With the [product] edition, you get almost all the features we offer. The additional features (such as separate checkout for each vendor, and vendor-created promotions) are available with the <a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. There is an even more advanced edition, <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, that lets you use multiple storefronts for different audiences."
-msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [prodotto], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\\\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
+msgstr "Il tuo negozio ora usa la licenza attiva. Con l'edizione [product], ottieni quasi tutte le caratteristiche che offriamo. Le caratteristiche aggiuntive (come il checkout separato per ogni venditore, e le promozioni create dal venditore) sono disponibili con l'<a href=\"[mve_plus_license_url]\" target=\"_blank\">[product] Plus edition</a>. C'è un'edizione ancora più avanzata, <a href=\"\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>, che ti permette di usare più vetrine per pubblici diversi."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru.plus"
 msgid "<strong>Plus mode</strong> has been activated. This mode offers all the advanced eCommerce features, except for multiple storefronts. If your marketplace ever needs separate domains for different audiences, upgrade your license to <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
-msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, tranne che per le vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[prodotto] Ultimate</a>."
+msgstr "La modalità <strong>Plus</strong> è stata attivata. Questa modalità offre tutte le caratteristiche avanzate del commercio elettronico, tranne che per le vetrine multiple. Se il tuo mercato ha bisogno di domini separati per un pubblico diverso, aggiorna la tua licenza a <a href=\"[mve_ultimate_license_url]\" target=\"_blank\">[product] Ultimate</a>."
 
 msgctxt "Languages::text_store_mode_changed_to_mve.ru.ultimate"
 msgid "<strong>Ultimate mode</strong> has been activated. In this mode, all the advanced eCommerce features are available."
@@ -910,11 +910,11 @@ msgstr "Date sent"
 
 msgctxt "Languages::vendor_invitations_sent_notification"
 msgid "Invitations sent: [sent_quantity]"
-msgstr "Inviti inviati: [quantità_inviata]"
+msgstr "Inviti inviati: [sent_quantity]"
 
 msgctxt "Languages::vendor_invitations_fail_notification"
 msgid "Invitations not sent: [failed_quantity]<br/><b>[emails_list]</b><br/>An invitation won't be sent if it has already been sent to that email address before. But if none of your invitations are being sent, and you haven't sent invitations to those addresses before, please make sure that [product] can send any emails at all. If it can't, then the problem is related to [product] or server configuration. In that case, please contact your server administrator, hosting provider, or <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">our technical support</a> to investigate."
-msgstr "Inviti non inviati: [failed_quantity]<br/><b>[emails_list]</b><br/>Un invito non verrà inviato se è già stato inviato prima a quell'indirizzo email. Ma se nessuno dei tuoi inviti viene inviato, e non hai inviato inviti a quegli indirizzi prima, assicurati che [prodotto] possa inviare e-mail. Se non può, allora il problema è legato a [prodotto] o alla configurazione del server. In questo caso, contatta il tuo amministratore del server, il tuo fornitore di hosting o <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">il nostro supporto tecnico</a> per indagare."
+msgstr "Inviti non inviati: [failed_quantity]<br/><b>[emails_list]</b><br/>Un invito non verrà inviato se è già stato inviato prima a quell'indirizzo email. Ma se nessuno dei tuoi inviti viene inviato, e non hai inviato inviti a quegli indirizzi prima, assicurati che [product] possa inviare e-mail. Se non può, allora il problema è legato a [product] o alla configurazione del server. In questo caso, contatta il tuo amministratore del server, il tuo fornitore di hosting o <a href=\"https://helpdesk.cs-cart.com/\" target=\"_blank\">il nostro supporto tecnico</a> per indagare."
 
 msgctxt "Languages::vendor_edit_invitation_email_template"
 msgid "<a href=\"[url]\">Edit vendor invitation email template</a>"
@@ -954,11 +954,11 @@ msgstr "Alcuni fornitori sono in attesa di approvazione"
 
 msgctxt "Languages::event.vendor_status_changed.name"
 msgid "Vendor status changed to [status]"
-msgstr "Stato del venditore cambiato in [stato]"
+msgstr "Stato del venditore cambiato in [status]"
 
 msgctxt "Languages::event.vendor_status_changed_from.name"
 msgid "Vendor status changed from [status]"
-msgstr "Stato del venditore cambiato da [stato]"
+msgstr "Stato del venditore cambiato da [status]"
 
 msgctxt "Languages::email_template.company_status_suspended_notification"
 msgid "Company status change to Suspended"
@@ -966,7 +966,7 @@ msgstr "Cambiamento di stato dell'azienda in Sospeso"
 
 msgctxt "Languages::event.vendor_status_changed.title"
 msgid "Your status has been changed to [status]"
-msgstr "Il tuo stato è stato cambiato in [stato]"
+msgstr "Il tuo stato è stato cambiato in [status]"
 
 msgctxt "Languages::event.vendor_status_changed.active.message"
 msgid "All your active products will now appear in the store"
