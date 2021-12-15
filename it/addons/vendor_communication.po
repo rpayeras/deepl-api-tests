@@ -1,5 +1,5 @@
 msgid ""
-msgstr 
+msgstr ""
 "Project-Id-Version: cs-cart-latest\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
